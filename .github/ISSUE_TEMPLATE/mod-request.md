@@ -2,7 +2,7 @@
 name: Mod Request
 about: Suggest a mod for the pack
 title: "[ModReq]: ModName, OtherModName"
-labels: ''
+labels: 'enhancement'
 assignees: Varollo
 
 ---
