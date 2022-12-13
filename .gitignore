@@ -1,0 +1,24 @@
+#Minecraft Fabric Modpack .gitignore
+#Used this as a template: https://github.com/RisingInIris2017/Blessed-Or-Cursed-Minecraft-Modpack/blob/main/.gitignore
+
+#Whitelist
+/*
+*.jar
+*.jfr
+
+#Folders
+!/.vscode/
+!/.github/
+!/config/
+!/mods/
+!/global_packs/
+!/debug/
+!/patchouli_books
+!/resources
+!/scripts
+!/structures
+
+#Files
+!/.gitignore
+!/README.md
+!/patchouli_data.json

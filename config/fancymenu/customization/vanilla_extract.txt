@@ -1,0 +1,235 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=376310%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = e5d62849-f9f4-4333-94cc-913bd4a0dc561670716895003
+  y = 497
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 743
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = fa69631f-adac-4696-9731-5485b6b48c1d1670716895024
+  y = 227
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = f03c90f2-0c66-4d02-97cc-c83c115bf48a1670716895025
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = ed5c399f-9129-44a6-8557-0cf39747107f1670716895026
+  y = 0
+  height = 30
+}
+
+customization {
+  showname = true
+  orientation = top-centered
+  crouching = false
+  x = 191
+  slim = false
+  actionid = b1eadfa3-16a6-4c93-b467-51767511364c1670718035702
+  action = addentity
+  y = 160
+  scale = 50
+  playername = %playername%
+  parrot = true
+}
+
+customization {
+  showname = true
+  orientation = bottom-left
+  crouching = false
+  x = 81
+  slim = false
+  actionid = 12ff50ce-f0d9-453f-ac86-223cd786883d1670719348959
+  action = addentity
+  y = -21
+  scale = 30
+  playername = Varollo
+  parrot = false
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = true
+  shadow = true
+  delayappearanceseconds = 0.0
+  scale = 1.0
+  source = Pack dev ->
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 1
+  fadeinspeed = 1.0
+  x = 1
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 61c13d5c-48e3-4214-8eb1-b875bb885ecd1670719719191
+  y = -85
+  delayappearance = true
+  alignment = left
+  delayappearanceeverytime = false
+  height = 40
+}
+
+customization {
+  orientation = top-centered
+  delayappearanceseconds = 0.0
+  path = config/fancymenu/customguis/vanilla-extract-title.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = -150
+  width = 297
+  action = addtexture
+  actionid = a154b6a1-4fa6-47a2-95ed-43196aa065571670728275026
+  y = 5
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 100
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.0
+  buttonaction = openlink
+  label = Issues
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 3
+  width = 55
+  actionid = c312edec-fde5-452e-a981-3c8bd7d7e80f1670764821976
+  action = addbutton
+  y = -71
+  delayappearance = true
+  value = https://github.com/Varollo/vanilla-extract/issues
+  delayappearanceeverytime = false
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 0.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  seconds = 0.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  seconds = 0.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  seconds = 0.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 0.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  seconds = 0.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 0.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 0.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  seconds = 0.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+

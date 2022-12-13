@@ -1,0 +1,898 @@
+{
+  "startedEpoch": 1670785761899,
+  "endedEpoch": 1670787285996,
+  "durationMs": 1524097,
+  "heap": {
+    "allocationRateBytesPerSecond": 2.2097504788349515E8,
+    "gcCount": 734,
+    "gcOverHeadPercent": 0.6010385,
+    "gcTotalDurationMs": 916041
+  },
+  "cpuPercent": {
+    "jvm": {
+      "min": 0.0,
+      "average": 0.01747009690562211,
+      "max": 0.06437119096517563
+    },
+    "userJvm": {
+      "min": 0.06611841917037964,
+      "average": 0.6414374049898632,
+      "max": 0.9463845491409302
+    },
+    "system": {
+      "min": 0.13180865347385406,
+      "average": 0.7735607773898034,
+      "max": 1.0
+    }
+  },
+  "network": {
+    "sent": {
+      "totalBytes": 0,
+      "count": 0,
+      "bytesPerSecond": 0.0,
+      "countPerSecond": 0.0,
+      "topContributors": []
+    },
+    "received": {
+      "totalBytes": 0,
+      "count": 0,
+      "bytesPerSecond": 0.0,
+      "countPerSecond": 0.0,
+      "topContributors": []
+    }
+  },
+  "fileIO": {
+    "write": {
+      "totalBytes": 450966213,
+      "count": 82751,
+      "bytesPerSecond": 295909.5885826772,
+      "countPerSecond": 54.2985564304462,
+      "topContributors": [
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\DIM-1\\region\\r.-1.0.mca",
+          "totalBytes": 31250337
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\DIM-1\\region\\r.2.-1.mca",
+          "totalBytes": 28966824
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\DIM-1\\region\\r.0.-1.mca",
+          "totalBytes": 26368869
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\DIM-1\\region\\r.-1.-1.mca",
+          "totalBytes": 26174245
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\dimensions\\twilightforest\\twilight_forest\\region\\r.0.1.mca",
+          "totalBytes": 18949258
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\DIM-1\\region\\r.0.0.mca",
+          "totalBytes": 18855713
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\dimensions\\twilightforest\\twilight_forest\\region\\r.-1.0.mca",
+          "totalBytes": 17823685
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\DIM-1\\region\\r.1.-1.mca",
+          "totalBytes": 17357471
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\DIM1\\region\\r.-2.2.mca",
+          "totalBytes": 16521286
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\dimensions\\twilightforest\\twilight_forest\\region\\r.0.0.mca",
+          "totalBytes": 15905321
+        }
+      ]
+    },
+    "read": {
+      "totalBytes": 58135547,
+      "count": 9226,
+      "bytesPerSecond": 38146.6843832021,
+      "countPerSecond": 6.053805774278215,
+      "topContributors": [
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Install\\assets\\objects\\bf\\bffd12a3916bea7c6db2159a724d164d35e496bf",
+          "totalBytes": 8096426
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Install\\assets\\objects\\9a\\9a4c3dd0d2069830b6fa3f673858d3ecb0805b02",
+          "totalBytes": 4194304
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\mods\\better-end-1.1.1.jar",
+          "totalBytes": 3443599
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\mods\\enderscape-0.3.4-1.18.2.jar",
+          "totalBytes": 3386668
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\DIM-1\\region\\r.-1.0.mca",
+          "totalBytes": 3149824
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\DIM1\\region\\r.-1.0.mca",
+          "totalBytes": 2691435
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Install\\assets\\objects\\51\\51fdfccc9a4d0e0d92f4a6aaafa68d8257c1d50e",
+          "totalBytes": 2663144
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\DIM1\\region\\r.-1.-1.mca",
+          "totalBytes": 2658749
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\DIM1\\region\\r.0.-1.mca",
+          "totalBytes": 2519484
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\DIM-1\\region\\r.0.0.mca",
+          "totalBytes": 2197914
+        }
+      ]
+    }
+  },
+  "serverTick": {
+    "minMs": 2.068371,
+    "averageMs": 8.957482845810055,
+    "maxMs": 659.990848,
+    "p99": 25.10799236,
+    "p90": 13.0764738,
+    "p75": 8.2544185,
+    "p50": 6.041747
+  },
+  "threadAllocation": [
+    {
+      "thread": "AWT-Windows",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Attach Listener",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "C1 CompilerThread0",
+      "bytesPerSecond": 1.391304347826087
+    },
+    {
+      "thread": "C2 CompilerThread0",
+      "bytesPerSecond": 0.1976284584980237
+    },
+    {
+      "thread": "C2 CompilerThread1",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Chunk Render Task Executor #0",
+      "bytesPerSecond": -91376.21343873518
+    },
+    {
+      "thread": "Common-Cleaner",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "CompletableFutureDelayScheduler",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Configurate-WatchService-0",
+      "bytesPerSecond": 1.8339920948616601
+    },
+    {
+      "thread": "CullThread",
+      "bytesPerSecond": 660161.2411067194
+    },
+    {
+      "thread": "FileSystemWatchService",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Finalizer",
+      "bytesPerSecond": 9.280632411067193
+    },
+    {
+      "thread": "Flywheel 0",
+      "bytesPerSecond": 80.3794466403162
+    },
+    {
+      "thread": "ForkJoinPool-4-worker-11",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "ForkJoinPool-4-worker-12",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "ForkJoinPool-4-worker-13",
+      "bytesPerSecond": 22170.763636363637
+    },
+    {
+      "thread": "ForkJoinPool-4-worker-14",
+      "bytesPerSecond": 10606.758620689656
+    },
+    {
+      "thread": "ForkJoinPool-4-worker-15",
+      "bytesPerSecond": 466.3636363636364
+    },
+    {
+      "thread": "ForkJoinPool.commonPool-worker-11",
+      "bytesPerSecond": 390.45849802371544
+    },
+    {
+      "thread": "ForkJoinPool.commonPool-worker-12",
+      "bytesPerSecond": 371.5494071146245
+    },
+    {
+      "thread": "ForkJoinPool.commonPool-worker-9",
+      "bytesPerSecond": 374.9881422924901
+    },
+    {
+      "thread": "IO-Worker-28",
+      "bytesPerSecond": 254319.27375886525
+    },
+    {
+      "thread": "IO-Worker-30",
+      "bytesPerSecond": 408749.42789598106
+    },
+    {
+      "thread": "IO-Worker-32",
+      "bytesPerSecond": 340745.6996047431
+    },
+    {
+      "thread": "IO-Worker-33",
+      "bytesPerSecond": 307974.8932806324
+    },
+    {
+      "thread": "IO-Worker-36",
+      "bytesPerSecond": 105305.71428571429
+    },
+    {
+      "thread": "IO-Worker-37",
+      "bytesPerSecond": 156806.47214854113
+    },
+    {
+      "thread": "IO-Worker-38",
+      "bytesPerSecond": 212949.4054054054
+    },
+    {
+      "thread": "IO-Worker-39",
+      "bytesPerSecond": 149573.44680851063
+    },
+    {
+      "thread": "IO-Worker-40",
+      "bytesPerSecond": 168905.77777777778
+    },
+    {
+      "thread": "IO-Worker-41",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "IO-Worker-42",
+      "bytesPerSecond": 110457.18032786885
+    },
+    {
+      "thread": "JFR Periodic Tasks",
+      "bytesPerSecond": 211.44664031620553
+    },
+    {
+      "thread": "JFR Recorder Thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Java2D Disposer",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Keep-Alive-Timer",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "KubeJS Background Thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "MicrophoneThread",
+      "bytesPerSecond": 85909.04347826086
+    },
+    {
+      "thread": "MiniHUD Worker Thread 0",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Monitor Deflation Thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Narrator",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Local Client IO #0",
+      "bytesPerSecond": 38381.33596837945
+    },
+    {
+      "thread": "Netty Server IO #0",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Server IO #1",
+      "bytesPerSecond": 21243.367588932808
+    },
+    {
+      "thread": "Notification Thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-ReloadPlugins",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Reference Handler",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Render thread",
+      "bytesPerSecond": 2.5654665454545453E7
+    },
+    {
+      "thread": "Server thread",
+      "bytesPerSecond": 3.207360734387352E7
+    },
+    {
+      "thread": "Service Thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Signal Dispatcher",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Sound engine",
+      "bytesPerSecond": -6283.9604743083
+    },
+    {
+      "thread": "Sweeper thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Swing-Shell",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Telemetry-Sender-#1",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-1",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-15",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-16",
+      "bytesPerSecond": 0.4426877470355731
+    },
+    {
+      "thread": "Thread-2",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-3",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-39",
+      "bytesPerSecond": 63.14624505928854
+    },
+    {
+      "thread": "Thread-4",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-5",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-8",
+      "bytesPerSecond": 24987.185770750988
+    },
+    {
+      "thread": "Timer hack thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "VoiceChatConnectionThread",
+      "bytesPerSecond": 12117.683794466404
+    },
+    {
+      "thread": "VoiceChatPacketProcessingThread",
+      "bytesPerSecond": 14927.296442687748
+    },
+    {
+      "thread": "VoiceChatServerThread",
+      "bytesPerSecond": 184.80632411067194
+    },
+    {
+      "thread": "Worker-Main-18",
+      "bytesPerSecond": 3.3438846E7
+    },
+    {
+      "thread": "Worker-Main-25",
+      "bytesPerSecond": 3.38331118972332E7
+    },
+    {
+      "thread": "Worker-Main-31",
+      "bytesPerSecond": 3.2842070015810277E7
+    },
+    {
+      "thread": "Worker-Main-34",
+      "bytesPerSecond": 3.4563808395256914E7
+    },
+    {
+      "thread": "Worker-Main-35",
+      "bytesPerSecond": 3.2441118110671937E7
+    },
+    {
+      "thread": "pool-2-thread-1",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "pool-3-thread-1",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "pool-4-thread-1",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "pool-9-thread-1",
+      "bytesPerSecond": 0.0
+    }
+  ],
+  "chunkGen": {
+    "durationNanosTotal": 2.21942074584E12,
+    "status": [
+      {
+        "state": "features",
+        "count": 12403,
+        "durationNanosTotal": 635159910246,
+        "durationNanosAvg": 51210183,
+        "durationNanosPercentiles": {
+          "p99": 2.8134531592E8,
+          "p90": 9.03984452E7,
+          "p75": 4.69425565E7,
+          "p50": 2.1569677E7
+        },
+        "fastest": {
+          "durationNanos": 21737,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_end]",
+          "chunkPosX": -1,
+          "chunkPosZ": -1,
+          "worldPosX": -16,
+          "worldPosZ": 208
+        },
+        "slowest": {
+          "durationNanos": 25896632977,
+          "level": "ResourceKey[minecraft:dimension / twilightforest:twilight_forest]",
+          "chunkPosX": 2,
+          "chunkPosZ": 2,
+          "worldPosX": 32,
+          "worldPosZ": 1232
+        },
+        "secondSlowest": {
+          "durationNanos": 17904500485,
+          "level": "ResourceKey[minecraft:dimension / the_aether:the_aether]",
+          "chunkPosX": 0,
+          "chunkPosZ": 0,
+          "worldPosX": 0,
+          "worldPosZ": -32
+        }
+      },
+      {
+        "state": "noise",
+        "count": 13683,
+        "durationNanosTotal": 543311182607,
+        "durationNanosAvg": 39707022,
+        "durationNanosPercentiles": {
+          "p99": 1.941024374E8,
+          "p90": 9.68303348E7,
+          "p75": 5.8985402E7,
+          "p50": 1.7533986E7
+        },
+        "fastest": {
+          "durationNanos": 352,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_nether]",
+          "chunkPosX": -1,
+          "chunkPosZ": -1,
+          "worldPosX": -16,
+          "worldPosZ": 128
+        },
+        "slowest": {
+          "durationNanos": 7888984429,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_nether]",
+          "chunkPosX": 3,
+          "chunkPosZ": 3,
+          "worldPosX": 48,
+          "worldPosZ": -80
+        },
+        "secondSlowest": {
+          "durationNanos": 1608825461,
+          "level": "ResourceKey[minecraft:dimension / the_aether:the_aether]",
+          "chunkPosX": -3,
+          "chunkPosZ": -3,
+          "worldPosX": -48,
+          "worldPosZ": -96
+        }
+      },
+      {
+        "state": "light",
+        "count": 11440,
+        "durationNanosTotal": 345734274120,
+        "durationNanosAvg": 30221527,
+        "durationNanosPercentiles": {
+          "p99": 1.841261196E8,
+          "p90": 6.7354727E7,
+          "p75": 2.8647448E7,
+          "p50": 1.12314235E7
+        },
+        "fastest": {
+          "durationNanos": 11344,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_end]",
+          "chunkPosX": -31,
+          "chunkPosZ": -31,
+          "worldPosX": -496,
+          "worldPosZ": 864
+        },
+        "slowest": {
+          "durationNanos": 25745950357,
+          "level": "ResourceKey[minecraft:dimension / twilightforest:twilight_forest]",
+          "chunkPosX": 4,
+          "chunkPosZ": 4,
+          "worldPosX": 64,
+          "worldPosZ": 1216
+        },
+        "secondSlowest": {
+          "durationNanos": 7787686527,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_end]",
+          "chunkPosX": -13,
+          "chunkPosZ": -13,
+          "worldPosX": -208,
+          "worldPosZ": 1184
+        }
+      },
+      {
+        "state": "full",
+        "count": 12311,
+        "durationNanosTotal": 296046883115,
+        "durationNanosAvg": 24047346,
+        "durationNanosPercentiles": {
+          "p99": 1.097581315E8,
+          "p90": 2.2791279E7,
+          "p75": 4675067.5,
+          "p50": 285797.0
+        },
+        "fastest": {
+          "durationNanos": 3694,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_nether]",
+          "chunkPosX": -8,
+          "chunkPosZ": -8,
+          "worldPosX": -128,
+          "worldPosZ": 128
+        },
+        "slowest": {
+          "durationNanos": 26761715327,
+          "level": "ResourceKey[minecraft:dimension / twilightforest:twilight_forest]",
+          "chunkPosX": 25,
+          "chunkPosZ": 25,
+          "worldPosX": 400,
+          "worldPosZ": 1216
+        },
+        "secondSlowest": {
+          "durationNanos": 26761652169,
+          "level": "ResourceKey[minecraft:dimension / twilightforest:twilight_forest]",
+          "chunkPosX": 24,
+          "chunkPosZ": 24,
+          "worldPosX": 384,
+          "worldPosZ": 1216
+        }
+      },
+      {
+        "state": "surface",
+        "count": 13683,
+        "durationNanosTotal": 247326639453,
+        "durationNanosAvg": 18075468,
+        "durationNanosPercentiles": {
+          "p99": 5.53774926E7,
+          "p90": 3.13945678E7,
+          "p75": 2.157524E7,
+          "p50": 9326268.0
+        },
+        "fastest": {
+          "durationNanos": 115,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_end]",
+          "chunkPosX": 8,
+          "chunkPosZ": 8,
+          "worldPosX": 128,
+          "worldPosZ": -224
+        },
+        "slowest": {
+          "durationNanos": 8148299387,
+          "level": "ResourceKey[minecraft:dimension / twilightforest:twilight_forest]",
+          "chunkPosX": 14,
+          "chunkPosZ": 14,
+          "worldPosX": 224,
+          "worldPosZ": 304
+        },
+        "secondSlowest": {
+          "durationNanos": 8098436254,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_nether]",
+          "chunkPosX": 9,
+          "chunkPosZ": 9,
+          "worldPosX": 144,
+          "worldPosZ": -176
+        }
+      },
+      {
+        "state": "structure_starts",
+        "count": 29615,
+        "durationNanosTotal": 93377529504,
+        "durationNanosAvg": 3153048,
+        "durationNanosPercentiles": {
+          "p99": 3.091160636E7,
+          "p90": 8994905.6,
+          "p75": 1753361.0,
+          "p50": 156270.0
+        },
+        "fastest": {
+          "durationNanos": 21,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_end]",
+          "chunkPosX": -67,
+          "chunkPosZ": -67,
+          "worldPosX": -1072,
+          "worldPosZ": 1760
+        },
+        "slowest": {
+          "durationNanos": 7776158360,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_end]",
+          "chunkPosX": -10,
+          "chunkPosZ": -10,
+          "worldPosX": -160,
+          "worldPosZ": 1440
+        },
+        "secondSlowest": {
+          "durationNanos": 1227682095,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_nether]",
+          "chunkPosX": -29,
+          "chunkPosZ": -29,
+          "worldPosX": -464,
+          "worldPosZ": 608
+        }
+      },
+      {
+        "state": "biomes",
+        "count": 15009,
+        "durationNanosTotal": 50286242149,
+        "durationNanosAvg": 3350405,
+        "durationNanosPercentiles": {
+          "p99": 2.248778544E7,
+          "p90": 4964387.2,
+          "p75": 3375889.0,
+          "p50": 2847116.0
+        },
+        "fastest": {
+          "durationNanos": 61,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_end]",
+          "chunkPosX": -14,
+          "chunkPosZ": -14,
+          "worldPosX": -224,
+          "worldPosZ": 208
+        },
+        "slowest": {
+          "durationNanos": 7772184685,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_end]",
+          "chunkPosX": 8,
+          "chunkPosZ": 8,
+          "worldPosX": 128,
+          "worldPosZ": 1296
+        },
+        "secondSlowest": {
+          "durationNanos": 97567559,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_nether]",
+          "chunkPosX": -1,
+          "chunkPosZ": -1,
+          "worldPosX": -16,
+          "worldPosZ": 80
+        }
+      },
+      {
+        "state": "carvers",
+        "count": 13684,
+        "durationNanosTotal": 7067122142,
+        "durationNanosAvg": 516451,
+        "durationNanosPercentiles": {
+          "p99": 5001519.94,
+          "p90": 1244945.2,
+          "p75": 351753.25,
+          "p50": 127987.0
+        },
+        "fastest": {
+          "durationNanos": 59,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_nether]",
+          "chunkPosX": -1,
+          "chunkPosZ": -1,
+          "worldPosX": -16,
+          "worldPosZ": 112
+        },
+        "slowest": {
+          "durationNanos": 76037836,
+          "level": "ResourceKey[minecraft:dimension / twilightforest:twilight_forest]",
+          "chunkPosX": 4,
+          "chunkPosZ": 4,
+          "worldPosX": 64,
+          "worldPosZ": 112
+        },
+        "secondSlowest": {
+          "durationNanos": 53790536,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_nether]",
+          "chunkPosX": -27,
+          "chunkPosZ": -27,
+          "worldPosX": -432,
+          "worldPosZ": 288
+        }
+      },
+      {
+        "state": "spawn",
+        "count": 12311,
+        "durationNanosTotal": 566284693,
+        "durationNanosAvg": 45998,
+        "durationNanosPercentiles": {
+          "p99": 520452.1,
+          "p90": 40964.0,
+          "p75": 30163.5,
+          "p50": 13840.0
+        },
+        "fastest": {
+          "durationNanos": 46,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_nether]",
+          "chunkPosX": -7,
+          "chunkPosZ": -7,
+          "worldPosX": -112,
+          "worldPosZ": 112
+        },
+        "slowest": {
+          "durationNanos": 38086715,
+          "level": "ResourceKey[minecraft:dimension / twilightforest:twilight_forest]",
+          "chunkPosX": 26,
+          "chunkPosZ": 26,
+          "worldPosX": 416,
+          "worldPosZ": 944
+        },
+        "secondSlowest": {
+          "durationNanos": 20427214,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_nether]",
+          "chunkPosX": 24,
+          "chunkPosZ": 24,
+          "worldPosX": 384,
+          "worldPosZ": 0
+        }
+      },
+      {
+        "state": "structure_references",
+        "count": 15009,
+        "durationNanosTotal": 521801784,
+        "durationNanosAvg": 34765,
+        "durationNanosPercentiles": {
+          "p99": 103075.72,
+          "p90": 52578.2,
+          "p75": 41000.0,
+          "p50": 33006.0
+        },
+        "fastest": {
+          "durationNanos": 92,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_end]",
+          "chunkPosX": 3,
+          "chunkPosZ": 3,
+          "worldPosX": 48,
+          "worldPosZ": -224
+        },
+        "slowest": {
+          "durationNanos": 4450524,
+          "level": "ResourceKey[minecraft:dimension / twilightforest:twilight_forest]",
+          "chunkPosX": -16,
+          "chunkPosZ": -16,
+          "worldPosX": -256,
+          "worldPosZ": 96
+        },
+        "secondSlowest": {
+          "durationNanos": 2700905,
+          "level": "ResourceKey[minecraft:dimension / twilightforest:twilight_forest]",
+          "chunkPosX": 3,
+          "chunkPosZ": 3,
+          "worldPosX": 48,
+          "worldPosZ": -48
+        }
+      },
+      {
+        "state": "liquid_carvers",
+        "count": 13686,
+        "durationNanosTotal": 15191085,
+        "durationNanosAvg": 1109,
+        "durationNanosPercentiles": {
+          "p99": 2844.2,
+          "p90": 1942.5,
+          "p75": 1275.0,
+          "p50": 915.0
+        },
+        "fastest": {
+          "durationNanos": 49,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_end]",
+          "chunkPosX": -36,
+          "chunkPosZ": -36,
+          "worldPosX": -576,
+          "worldPosZ": 1216
+        },
+        "slowest": {
+          "durationNanos": 220857,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_end]",
+          "chunkPosX": -52,
+          "chunkPosZ": -52,
+          "worldPosX": -832,
+          "worldPosZ": 1888
+        },
+        "secondSlowest": {
+          "durationNanos": 115647,
+          "level": "ResourceKey[minecraft:dimension / twilightforest:twilight_forest]",
+          "chunkPosX": 30,
+          "chunkPosZ": 30,
+          "worldPosX": 480,
+          "worldPosZ": 912
+        }
+      },
+      {
+        "state": "heightmaps",
+        "count": 12311,
+        "durationNanosTotal": 7684942,
+        "durationNanosAvg": 624,
+        "durationNanosPercentiles": {
+          "p99": 1634.7,
+          "p90": 1080.0,
+          "p75": 823.5,
+          "p50": 518.0
+        },
+        "fastest": {
+          "durationNanos": 45,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_nether]",
+          "chunkPosX": -7,
+          "chunkPosZ": -7,
+          "worldPosX": -112,
+          "worldPosZ": 112
+        },
+        "slowest": {
+          "durationNanos": 168017,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_end]",
+          "chunkPosX": -6,
+          "chunkPosZ": -6,
+          "worldPosX": -96,
+          "worldPosZ": 224
+        },
+        "secondSlowest": {
+          "durationNanos": 55382,
+          "level": "ResourceKey[minecraft:dimension / minecraft:the_nether]",
+          "chunkPosX": -5,
+          "chunkPosZ": -5,
+          "worldPosX": -80,
+          "worldPosZ": 16
+        }
+      }
+    ]
+  }
+}

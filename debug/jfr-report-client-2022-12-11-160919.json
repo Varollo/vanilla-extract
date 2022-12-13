@@ -1,0 +1,2254 @@
+{
+  "startedEpoch": 1670785759072,
+  "endedEpoch": 1670785992073,
+  "durationMs": 233000,
+  "heap": {
+    "allocationRateBytesPerSecond": 1.1168037560538116E8,
+    "gcCount": 56,
+    "gcOverHeadPercent": 0.8709442,
+    "gcTotalDurationMs": 202930
+  },
+  "cpuPercent": {
+    "jvm": {
+      "min": 0.0,
+      "average": 0.021169184041574193,
+      "max": 0.05778786167502403
+    },
+    "userJvm": {
+      "min": 0.0,
+      "average": 0.7140485576118332,
+      "max": 0.9658229947090149
+    },
+    "system": {
+      "min": 0.3249351382255554,
+      "average": 0.8323759969817587,
+      "max": 1.0
+    }
+  },
+  "network": {
+    "sent": {
+      "totalBytes": 0,
+      "count": 0,
+      "bytesPerSecond": 0.0,
+      "countPerSecond": 0.0,
+      "topContributors": []
+    },
+    "received": {
+      "totalBytes": 0,
+      "count": 0,
+      "bytesPerSecond": 0.0,
+      "countPerSecond": 0.0,
+      "topContributors": []
+    }
+  },
+  "fileIO": {
+    "write": {
+      "totalBytes": 36150227,
+      "count": 4823,
+      "bytesPerSecond": 155151.1888412017,
+      "countPerSecond": 20.699570815450645,
+      "topContributors": [
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\region\\r.-1.0.mca",
+          "totalBytes": 24158500
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\region\\r.0.0.mca",
+          "totalBytes": 5501169
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\region\\r.-1.-1.mca",
+          "totalBytes": 3119345
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\region\\r.0.-1.mca",
+          "totalBytes": 2741040
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\entities\\r.0.-1.mca",
+          "totalBytes": 189257
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\entities\\r.-1.-1.mca",
+          "totalBytes": 153442
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\entities\\r.0.0.mca",
+          "totalBytes": 149951
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\poi\\r.-1.0.mca",
+          "totalBytes": 66790
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\poi\\r.0.0.mca",
+          "totalBytes": 25033
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\saves\\Beta cuck\\entities\\r.-1.0.mca",
+          "totalBytes": 18058
+        }
+      ]
+    },
+    "read": {
+      "totalBytes": 2247660,
+      "count": 947,
+      "bytesPerSecond": 9646.609442060086,
+      "countPerSecond": 4.064377682403434,
+      "topContributors": [
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Install\\assets\\objects\\e3\\e34da9807a08eb38b8ab60936f2ce965be04a106",
+          "totalBytes": 786432
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\.fabric\\remappedJars\\minecraft-1.18.2-0.14.11\\client-intermediary.jar",
+          "totalBytes": 142600
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Install\\assets\\objects\\75\\751fec52a10bb2a5309a765fc622727422556a64",
+          "totalBytes": 94195
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Install\\assets\\objects\\92\\92429140e98c02a1b0e61d87aed53b898cde0de2",
+          "totalBytes": 90299
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Install\\assets\\objects\\95\\9579b9b2dc9d2be2fe1d6a81c2e99b6a45650bf3",
+          "totalBytes": 83001
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Install\\assets\\objects\\d3\\d3f646d9e0d0a198644229f76da0141893159b0b",
+          "totalBytes": 72994
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Install\\assets\\objects\\df\\df5664833e7751745b8bb24805eb0d0f9ae4c031",
+          "totalBytes": 62362
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Install\\assets\\objects\\8c\\8c7fa514148b39ddb4929f3caf1d4b6ab4330e5c",
+          "totalBytes": 60138
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Instances\\Vanilla Extract\\mods\\RoughlyEnoughItems-8.3.579.jar",
+          "totalBytes": 58967
+        },
+        {
+          "path": "C:\\Users\\rimol\\curseforge\\minecraft\\Install\\assets\\objects\\ab\\abe8061b7227e85b98196f11e44706154bbbd394",
+          "totalBytes": 51067
+        }
+      ]
+    }
+  },
+  "serverTick": {
+    "minMs": 7.674752,
+    "averageMs": 29.278479054216866,
+    "maxMs": 649.166208,
+    "p99": 130.1020428,
+    "p90": 46.905426000000006,
+    "p75": 31.7253085,
+    "p50": 18.469514
+  },
+  "threadAllocation": [
+    {
+      "thread": "AWT-Windows",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Attach Listener",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "C1 CompilerThread0",
+      "bytesPerSecond": 12.037383177570094
+    },
+    {
+      "thread": "C2 CompilerThread0",
+      "bytesPerSecond": 0.5981308411214953
+    },
+    {
+      "thread": "C2 CompilerThread1",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Chunk Render Task Executor #0",
+      "bytesPerSecond": 7820917.794392523
+    },
+    {
+      "thread": "Common-Cleaner",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "CompletableFutureDelayScheduler",
+      "bytesPerSecond": 0.897196261682243
+    },
+    {
+      "thread": "Configurate-WatchService-0",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "CullThread",
+      "bytesPerSecond": 1563665.4953271027
+    },
+    {
+      "thread": "FileSystemWatchService",
+      "bytesPerSecond": -171.14018691588785
+    },
+    {
+      "thread": "Finalizer",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Flywheel 0",
+      "bytesPerSecond": 161.79439252336448
+    },
+    {
+      "thread": "ForkJoinPool-4-worker-10",
+      "bytesPerSecond": 11133.454545454546
+    },
+    {
+      "thread": "ForkJoinPool-4-worker-7",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "ForkJoinPool-4-worker-8",
+      "bytesPerSecond": 965.376
+    },
+    {
+      "thread": "ForkJoinPool-4-worker-9",
+      "bytesPerSecond": 7821.248
+    },
+    {
+      "thread": "ForkJoinPool.commonPool-worker-10",
+      "bytesPerSecond": 162.01869158878506
+    },
+    {
+      "thread": "ForkJoinPool.commonPool-worker-11",
+      "bytesPerSecond": 224.1118881118881
+    },
+    {
+      "thread": "ForkJoinPool.commonPool-worker-9",
+      "bytesPerSecond": 258.4672897196262
+    },
+    {
+      "thread": "IO-Worker-23",
+      "bytesPerSecond": 91093.30841121495
+    },
+    {
+      "thread": "IO-Worker-24",
+      "bytesPerSecond": 134968.7453416149
+    },
+    {
+      "thread": "IO-Worker-26",
+      "bytesPerSecond": 56808.60301507538
+    },
+    {
+      "thread": "IO-Worker-27",
+      "bytesPerSecond": 145976.04347826086
+    },
+    {
+      "thread": "JFR Periodic Tasks",
+      "bytesPerSecond": 611.8504672897196
+    },
+    {
+      "thread": "JFR Recorder Thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Java2D Disposer",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Keep-Alive-Timer",
+      "bytesPerSecond": 7.354838709677419
+    },
+    {
+      "thread": "KubeJS Background Thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "MicrophoneThread",
+      "bytesPerSecond": 77901.04672897197
+    },
+    {
+      "thread": "MiniHUD Worker Thread 0",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Monitor Deflation Thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Narrator",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Local Client IO #0",
+      "bytesPerSecond": 52362.42990654206
+    },
+    {
+      "thread": "Netty Server IO #0",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Server IO #1",
+      "bytesPerSecond": 56671.96261682243
+    },
+    {
+      "thread": "Notification Thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-10",
+      "bytesPerSecond": 152.88888888888889
+    },
+    {
+      "thread": "REI-AsyncSearchManager-100",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-101",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-102",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-103",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-104",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-105",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-106",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-107",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-108",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-109",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-11",
+      "bytesPerSecond": 570366.2222222222
+    },
+    {
+      "thread": "REI-AsyncSearchManager-110",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-111",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-112",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-113",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-114",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-115",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-116",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-117",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-118",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-119",
+      "bytesPerSecond": 428692.8
+    },
+    {
+      "thread": "REI-AsyncSearchManager-12",
+      "bytesPerSecond": 584937.7777777778
+    },
+    {
+      "thread": "REI-AsyncSearchManager-120",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-121",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-122",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-123",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-124",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-125",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-126",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-127",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-128",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-129",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-13",
+      "bytesPerSecond": 2603.5555555555557
+    },
+    {
+      "thread": "REI-AsyncSearchManager-130",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-131",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-132",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-133",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-134",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-135",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-136",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-137",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-138",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-139",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-14",
+      "bytesPerSecond": 844160.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-140",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-141",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-142",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-143",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-144",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-145",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-146",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-147",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-148",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-149",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-15",
+      "bytesPerSecond": 328442.6666666667
+    },
+    {
+      "thread": "REI-AsyncSearchManager-150",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-151",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-152",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-153",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-154",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-155",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-156",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-157",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-158",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-159",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-16",
+      "bytesPerSecond": 576835.5555555555
+    },
+    {
+      "thread": "REI-AsyncSearchManager-160",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-161",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-162",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-163",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-164",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-165",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-166",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-167",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-168",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-169",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-17",
+      "bytesPerSecond": 582683.5555555555
+    },
+    {
+      "thread": "REI-AsyncSearchManager-170",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-171",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-172",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-173",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-174",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-175",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-176",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-177",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-178",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-179",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-18",
+      "bytesPerSecond": 575536.8888888889
+    },
+    {
+      "thread": "REI-AsyncSearchManager-180",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-181",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-182",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-183",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-184",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-185",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-186",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-187",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-188",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-189",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-19",
+      "bytesPerSecond": 574463.1111111111
+    },
+    {
+      "thread": "REI-AsyncSearchManager-190",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-191",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-192",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-193",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-194",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-195",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-196",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-197",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-198",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-199",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-20",
+      "bytesPerSecond": 574577.7777777778
+    },
+    {
+      "thread": "REI-AsyncSearchManager-200",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-201",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-202",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-203",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-204",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-205",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-206",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-207",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-208",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-209",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-21",
+      "bytesPerSecond": 574317.3333333334
+    },
+    {
+      "thread": "REI-AsyncSearchManager-210",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-211",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-212",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-213",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-214",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-215",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-216",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-217",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-218",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-219",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-22",
+      "bytesPerSecond": 572328.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-220",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-221",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-222",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-223",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-224",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-225",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-226",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-227",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-228",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-229",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-23",
+      "bytesPerSecond": 573668.4444444445
+    },
+    {
+      "thread": "REI-AsyncSearchManager-230",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-231",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-232",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-233",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-234",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-235",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-236",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-237",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-238",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-239",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-24",
+      "bytesPerSecond": 573066.6666666666
+    },
+    {
+      "thread": "REI-AsyncSearchManager-240",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-241",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-242",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-243",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-244",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-245",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-246",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-247",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-248",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-249",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-25",
+      "bytesPerSecond": 574518.2222222222
+    },
+    {
+      "thread": "REI-AsyncSearchManager-250",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-251",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-252",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-253",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-254",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-255",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-256",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-257",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-258",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-259",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-26",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-260",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-261",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-262",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-263",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-264",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-265",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-266",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-267",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-268",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-269",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-27",
+      "bytesPerSecond": 271990.22222222225
+    },
+    {
+      "thread": "REI-AsyncSearchManager-270",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-271",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-272",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-273",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-274",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-275",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-276",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-277",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-278",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-279",
+      "bytesPerSecond": 128476.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-28",
+      "bytesPerSecond": 571888.8888888889
+    },
+    {
+      "thread": "REI-AsyncSearchManager-280",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-281",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-282",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-283",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-284",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-285",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-286",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-287",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-288",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-289",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-29",
+      "bytesPerSecond": 573147.5555555555
+    },
+    {
+      "thread": "REI-AsyncSearchManager-290",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-291",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-292",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-293",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-294",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-295",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-296",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-297",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-298",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-299",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-3",
+      "bytesPerSecond": 393443.2
+    },
+    {
+      "thread": "REI-AsyncSearchManager-30",
+      "bytesPerSecond": 574107.5555555555
+    },
+    {
+      "thread": "REI-AsyncSearchManager-300",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-301",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-302",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-303",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-304",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-305",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-306",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-307",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-308",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-309",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-31",
+      "bytesPerSecond": 458576.8888888889
+    },
+    {
+      "thread": "REI-AsyncSearchManager-310",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-311",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-312",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-313",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-314",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-315",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-316",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-317",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-318",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-319",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-32",
+      "bytesPerSecond": 591564.4444444445
+    },
+    {
+      "thread": "REI-AsyncSearchManager-320",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-321",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-322",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-323",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-324",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-325",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-326",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-327",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-328",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-329",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-33",
+      "bytesPerSecond": 598732.4444444445
+    },
+    {
+      "thread": "REI-AsyncSearchManager-330",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-331",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-332",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-333",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-334",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-335",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-336",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-337",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-338",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-339",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-34",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-340",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-341",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-342",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-343",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-344",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-345",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-346",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-347",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-348",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-349",
+      "bytesPerSecond": 1287580.4444444445
+    },
+    {
+      "thread": "REI-AsyncSearchManager-35",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-350",
+      "bytesPerSecond": 510523.55555555556
+    },
+    {
+      "thread": "REI-AsyncSearchManager-351",
+      "bytesPerSecond": 1268604.4444444445
+    },
+    {
+      "thread": "REI-AsyncSearchManager-36",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-37",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-38",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-39",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-4",
+      "bytesPerSecond": 245304.8
+    },
+    {
+      "thread": "REI-AsyncSearchManager-40",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-41",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-42",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-43",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-44",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-45",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-46",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-47",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-48",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-49",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-5",
+      "bytesPerSecond": 848019.2
+    },
+    {
+      "thread": "REI-AsyncSearchManager-50",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-51",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-52",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-53",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-54",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-55",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-56",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-57",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-58",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-59",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-6",
+      "bytesPerSecond": 333361.77777777775
+    },
+    {
+      "thread": "REI-AsyncSearchManager-60",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-61",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-62",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-63",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-64",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-65",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-66",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-67",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-68",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-69",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-7",
+      "bytesPerSecond": 582067.5555555555
+    },
+    {
+      "thread": "REI-AsyncSearchManager-70",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-71",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-72",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-73",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-74",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-75",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-76",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-77",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-78",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-79",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-8",
+      "bytesPerSecond": 571369.7777777778
+    },
+    {
+      "thread": "REI-AsyncSearchManager-80",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-81",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-82",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-83",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-84",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-85",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-86",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-87",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-88",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-89",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-9",
+      "bytesPerSecond": 576484.4444444445
+    },
+    {
+      "thread": "REI-AsyncSearchManager-90",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-91",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-92",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-93",
+      "bytesPerSecond": 145329.6
+    },
+    {
+      "thread": "REI-AsyncSearchManager-94",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-95",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-96",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-97",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-98",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-AsyncSearchManager-99",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "REI-ReloadPlugins",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Reference Handler",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Render thread",
+      "bytesPerSecond": 2.650369259813084E7
+    },
+    {
+      "thread": "Server thread",
+      "bytesPerSecond": 3.3324177233644858E7
+    },
+    {
+      "thread": "Service Thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Signal Dispatcher",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Sound engine",
+      "bytesPerSecond": 13868.373831775702
+    },
+    {
+      "thread": "Sweeper thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Swing-Shell",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Telemetry-Sender-#1",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-1",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-15",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-16",
+      "bytesPerSecond": 0.7850467289719626
+    },
+    {
+      "thread": "Thread-2",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-3",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-39",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-4",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-5",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-8",
+      "bytesPerSecond": 19907.21495327103
+    },
+    {
+      "thread": "Timer hack thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "VoiceChatConnectionThread",
+      "bytesPerSecond": 12158.579439252337
+    },
+    {
+      "thread": "VoiceChatPacketProcessingThread",
+      "bytesPerSecond": 14352.971962616823
+    },
+    {
+      "thread": "VoiceChatServerThread",
+      "bytesPerSecond": 166.3551401869159
+    },
+    {
+      "thread": "Worker-Main-18",
+      "bytesPerSecond": 1.747211506542056E7
+    },
+    {
+      "thread": "Worker-Main-19",
+      "bytesPerSecond": 1.8202434766355142E7
+    },
+    {
+      "thread": "Worker-Main-25",
+      "bytesPerSecond": 1.6601420224299066E7
+    },
+    {
+      "thread": "pool-2-thread-1",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "pool-3-thread-1",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "pool-4-thread-1",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "pool-9-thread-1",
+      "bytesPerSecond": 0.0
+    }
+  ],
+  "chunkGen": {
+    "durationNanosTotal": 2.81504431581E11,
+    "status": [
+      {
+        "state": "noise",
+        "count": 584,
+        "durationNanosTotal": 101021291237,
+        "durationNanosAvg": 172981663,
+        "durationNanosPercentiles": {
+          "p99": 7.4574431927E8,
+          "p90": 2.632426652E8,
+          "p75": 1.676042355E8,
+          "p50": 1.022089905E8
+        },
+        "fastest": {
+          "durationNanos": 32560318,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -21,
+          "chunkPosZ": -21,
+          "worldPosX": -336,
+          "worldPosZ": 400
+        },
+        "slowest": {
+          "durationNanos": 7382713357,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -21,
+          "chunkPosZ": -21,
+          "worldPosX": -336,
+          "worldPosZ": 208
+        },
+        "secondSlowest": {
+          "durationNanos": 7376905477,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -21,
+          "chunkPosZ": -21,
+          "worldPosX": -336,
+          "worldPosZ": 176
+        }
+      },
+      {
+        "state": "full",
+        "count": 509,
+        "durationNanosTotal": 54065984283,
+        "durationNanosAvg": 106220008,
+        "durationNanosPercentiles": {
+          "p99": 6.3895821644E8,
+          "p90": 2.37023822E8,
+          "p75": 1.17991669E8,
+          "p50": 3.7621843E7
+        },
+        "fastest": {
+          "durationNanos": 60171,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -21,
+          "chunkPosZ": -21,
+          "worldPosX": -336,
+          "worldPosZ": 368
+        },
+        "slowest": {
+          "durationNanos": 7415511356,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -19,
+          "chunkPosZ": -19,
+          "worldPosX": -304,
+          "worldPosZ": 320
+        },
+        "secondSlowest": {
+          "durationNanos": 715040262,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 1,
+          "chunkPosZ": 1,
+          "worldPosX": 16,
+          "worldPosZ": 368
+        }
+      },
+      {
+        "state": "features",
+        "count": 544,
+        "durationNanosTotal": 36417890743,
+        "durationNanosAvg": 66944652,
+        "durationNanosPercentiles": {
+          "p99": 5.2343337817E8,
+          "p90": 1.558407049E8,
+          "p75": 6.45466165E7,
+          "p50": 3.09770265E7
+        },
+        "fastest": {
+          "durationNanos": 12497388,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -22,
+          "chunkPosZ": -22,
+          "worldPosX": -352,
+          "worldPosZ": 32
+        },
+        "slowest": {
+          "durationNanos": 1325890488,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -6,
+          "chunkPosZ": -6,
+          "worldPosX": -96,
+          "worldPosZ": 256
+        },
+        "secondSlowest": {
+          "durationNanos": 764653611,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 3,
+          "chunkPosZ": 3,
+          "worldPosX": 48,
+          "worldPosZ": 240
+        }
+      },
+      {
+        "state": "light",
+        "count": 504,
+        "durationNanosTotal": 34861115196,
+        "durationNanosAvg": 69168879,
+        "durationNanosPercentiles": {
+          "p99": 4.5077969023E8,
+          "p90": 1.767288746E8,
+          "p75": 9.006666575E7,
+          "p50": 3.5207342E7
+        },
+        "fastest": {
+          "durationNanos": 3277985,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 2,
+          "chunkPosZ": 2,
+          "worldPosX": 32,
+          "worldPosZ": 272
+        },
+        "slowest": {
+          "durationNanos": 591373802,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 10,
+          "chunkPosZ": 10,
+          "worldPosX": 160,
+          "worldPosZ": 224
+        },
+        "secondSlowest": {
+          "durationNanos": 506829314,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 0,
+          "chunkPosZ": 0,
+          "worldPosX": 0,
+          "worldPosZ": 224
+        }
+      },
+      {
+        "state": "surface",
+        "count": 584,
+        "durationNanosTotal": 26047691130,
+        "durationNanosAvg": 44602210,
+        "durationNanosPercentiles": {
+          "p99": 2.0400639079E8,
+          "p90": 1.006882016E8,
+          "p75": 4.529221625E7,
+          "p50": 2.3627442E7
+        },
+        "fastest": {
+          "durationNanos": 15854078,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 5,
+          "chunkPosZ": 5,
+          "worldPosX": 80,
+          "worldPosZ": 352
+        },
+        "slowest": {
+          "durationNanos": 435976145,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 2,
+          "chunkPosZ": 2,
+          "worldPosX": 32,
+          "worldPosZ": 320
+        },
+        "secondSlowest": {
+          "durationNanos": 416383363,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 10,
+          "chunkPosZ": 10,
+          "worldPosX": 160,
+          "worldPosZ": 256
+        }
+      },
+      {
+        "state": "structure_starts",
+        "count": 944,
+        "durationNanosTotal": 21699304436,
+        "durationNanosAvg": 22986551,
+        "durationNanosPercentiles": {
+          "p99": 1.9209238199E8,
+          "p90": 2.76718659E7,
+          "p75": 9926575.0,
+          "p50": 463087.0
+        },
+        "fastest": {
+          "durationNanos": 197556,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -31,
+          "chunkPosZ": -31,
+          "worldPosX": -496,
+          "worldPosZ": 208
+        },
+        "slowest": {
+          "durationNanos": 8372243571,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -30,
+          "chunkPosZ": -30,
+          "worldPosX": -480,
+          "worldPosZ": 48
+        },
+        "secondSlowest": {
+          "durationNanos": 2719146815,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -29,
+          "chunkPosZ": -29,
+          "worldPosX": -464,
+          "worldPosZ": 384
+        }
+      },
+      {
+        "state": "biomes",
+        "count": 624,
+        "durationNanosTotal": 4566066111,
+        "durationNanosAvg": 7317413,
+        "durationNanosPercentiles": {
+          "p99": 1.1179361658E8,
+          "p90": 9116483.8,
+          "p75": 3286216.5,
+          "p50": 2683773.0
+        },
+        "fastest": {
+          "durationNanos": 2100508,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 9,
+          "chunkPosZ": 9,
+          "worldPosX": 144,
+          "worldPosZ": 352
+        },
+        "slowest": {
+          "durationNanos": 217768245,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 11,
+          "chunkPosZ": 11,
+          "worldPosX": 176,
+          "worldPosZ": 288
+        },
+        "secondSlowest": {
+          "durationNanos": 168287905,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -11,
+          "chunkPosZ": -11,
+          "worldPosX": -176,
+          "worldPosZ": 336
+        }
+      },
+      {
+        "state": "carvers",
+        "count": 584,
+        "durationNanosTotal": 2140888718,
+        "durationNanosAvg": 3665905,
+        "durationNanosPercentiles": {
+          "p99": 5.962990483E7,
+          "p90": 3724988.8,
+          "p75": 2181591.5,
+          "p50": 1532541.0
+        },
+        "fastest": {
+          "durationNanos": 418796,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -22,
+          "chunkPosZ": -22,
+          "worldPosX": -352,
+          "worldPosZ": 80
+        },
+        "slowest": {
+          "durationNanos": 174482682,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -16,
+          "chunkPosZ": -16,
+          "worldPosX": -256,
+          "worldPosZ": 256
+        },
+        "secondSlowest": {
+          "durationNanos": 166049337,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -19,
+          "chunkPosZ": -19,
+          "worldPosX": -304,
+          "worldPosZ": -48
+        }
+      },
+      {
+        "state": "spawn",
+        "count": 504,
+        "durationNanosTotal": 356205462,
+        "durationNanosAvg": 706756,
+        "durationNanosPercentiles": {
+          "p99": 1.293913526E7,
+          "p90": 105435.6,
+          "p75": 65402.5,
+          "p50": 51925.5
+        },
+        "fastest": {
+          "durationNanos": 2248,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -19,
+          "chunkPosZ": -19,
+          "worldPosX": -304,
+          "worldPosZ": 112
+        },
+        "slowest": {
+          "durationNanos": 194154875,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 6,
+          "chunkPosZ": 6,
+          "worldPosX": 96,
+          "worldPosZ": 224
+        },
+        "secondSlowest": {
+          "durationNanos": 24719613,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -13,
+          "chunkPosZ": -13,
+          "worldPosX": -208,
+          "worldPosZ": 240
+        }
+      },
+      {
+        "state": "structure_references",
+        "count": 624,
+        "durationNanosTotal": 325325301,
+        "durationNanosAvg": 521354,
+        "durationNanosPercentiles": {
+          "p99": 3995494.67,
+          "p90": 142983.2,
+          "p75": 85176.75,
+          "p50": 48306.5
+        },
+        "fastest": {
+          "durationNanos": 11358,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -18,
+          "chunkPosZ": -18,
+          "worldPosX": -288,
+          "worldPosZ": 432
+        },
+        "slowest": {
+          "durationNanos": 148788291,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -4,
+          "chunkPosZ": -4,
+          "worldPosX": -64,
+          "worldPosZ": 288
+        },
+        "secondSlowest": {
+          "durationNanos": 81803644,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 9,
+          "chunkPosZ": 9,
+          "worldPosX": 144,
+          "worldPosZ": 272
+        }
+      },
+      {
+        "state": "liquid_carvers",
+        "count": 584,
+        "durationNanosTotal": 1511810,
+        "durationNanosAvg": 2588,
+        "durationNanosPercentiles": {
+          "p99": 9303.98,
+          "p90": 2967.7,
+          "p75": 2046.5,
+          "p50": 1424.0
+        },
+        "fastest": {
+          "durationNanos": 106,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -22,
+          "chunkPosZ": -22,
+          "worldPosX": -352,
+          "worldPosZ": 304
+        },
+        "slowest": {
+          "durationNanos": 233497,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 4,
+          "chunkPosZ": 4,
+          "worldPosX": 64,
+          "worldPosZ": 288
+        },
+        "secondSlowest": {
+          "durationNanos": 177066,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 12,
+          "chunkPosZ": 12,
+          "worldPosX": 192,
+          "worldPosZ": 256
+        }
+      },
+      {
+        "state": "heightmaps",
+        "count": 504,
+        "durationNanosTotal": 1157154,
+        "durationNanosAvg": 2295,
+        "durationNanosPercentiles": {
+          "p99": 14583.55,
+          "p90": 1524.0,
+          "p75": 909.5,
+          "p50": 606.0
+        },
+        "fastest": {
+          "durationNanos": 72,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": 5,
+          "chunkPosZ": 5,
+          "worldPosX": 80,
+          "worldPosZ": 288
+        },
+        "slowest": {
+          "durationNanos": 658248,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -2,
+          "chunkPosZ": -2,
+          "worldPosX": -32,
+          "worldPosZ": 400
+        },
+        "secondSlowest": {
+          "durationNanos": 25113,
+          "level": "ResourceKey[minecraft:dimension / minecraft:overworld]",
+          "chunkPosX": -4,
+          "chunkPosZ": -4,
+          "worldPosX": -64,
+          "worldPosZ": 224
+        }
+      }
+    ]
+  }
+}

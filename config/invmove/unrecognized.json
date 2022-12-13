@@ -1,0 +1,34 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "org.anti_ad.mc.ipnext.gui.ConfigScreen": true,
+    "org.anti_ad.mc.ipnext.gui.GUIDEEditorScreen": true,
+    "svenhjol.charm.module.atlases.AtlasScreen": true,
+    "org.cloudwarp.probablychests.screen.PCChestScreen": true,
+    "fi.dy.masa.minihud.gui.GuiConfigs": true,
+    "fi.dy.masa.minihud.gui.GuiShapeManager": true,
+    "net.minecraft.class_4895": true,
+    "wraith.waystones.screen.WaystoneBlockScreen": true,
+    "io.github.haykam821.woodenhoppers.screen.WoodenHopperScreen": true,
+    "com.matthewperiut.chisel.gui.ChiselScreen": true,
+    "com.unlikepaladin.pfm.client.screens.WorkbenchScreen": true,
+    "com.unlikepaladin.pfm.client.screens.FreezerScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "draylar.inmis.ui.BackpackHandledScreen": true
+  },
+  "hideBackground": {
+    "svenhjol.charm.module.atlases.AtlasScreen": true,
+    "org.cloudwarp.probablychests.screen.PCChestScreen": true,
+    "net.minecraft.class_4895": true,
+    "wraith.waystones.screen.WaystoneBlockScreen": true,
+    "io.github.haykam821.woodenhoppers.screen.WoodenHopperScreen": true,
+    "com.matthewperiut.chisel.gui.ChiselScreen": true,
+    "com.unlikepaladin.pfm.client.screens.WorkbenchScreen": true,
+    "com.unlikepaladin.pfm.client.screens.FreezerScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "draylar.inmis.ui.BackpackHandledScreen": true
+  }
+}

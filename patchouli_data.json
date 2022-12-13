@@ -1,0 +1,13 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "pfm:guide_book": {
+      "viewedEntries": [
+        "pfm:freezer_usage_entry"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
