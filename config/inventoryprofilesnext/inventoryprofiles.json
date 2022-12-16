@@ -25,7 +25,11 @@
     "LockedSlotsSettings": {
         "locked_slots_empty_hotbar_as_semi_locked": {
             "value": false
-        }
+        },
+        "show_locked_slots_background": {
+            "value": false
+        },
+        "locked_slots_foreground_style": 1
     },
     "AutoRefillSettings": {
         "refill_before_tool_break": {

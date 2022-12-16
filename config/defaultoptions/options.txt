@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","loadmyresources.hiddenpack","black_icons","continuity/default","continuity/glass_pane_culling_fix","file/Glass Resource Pack Fix.zip","file/Vanilla+Advancement.zip","file/Default-Dark-Mode-1.18-v1.3.4.zip","file/Slightly-Improved-Font-1.0.0.zip","file/Vanilla-Extract-Resources.zip"]
+resourcePacks:["vanilla","Fabric Mods","loadmyresources.hiddenpack","black_icons","continuity/default","continuity/glass_pane_culling_fix","file/Glass Resource Pack Fix.zip","file/Vanilla+Advancement.zip","file/Default-Dark-Mode-1.18-v1.3.4.zip","file/Slightly-Improved-Font-1.0.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

@@ -6,14 +6,14 @@
 	// Whether to add local marker for the spot where the player died.
 	"autoDeathMarker": true,
 	// Whether to add global markers for NPC villages.
-	"autoVillageMarkers": true,
+	"autoVillageMarkers": false,
 	// Whether to add global markers for Nether Portals.
 	"autoNetherPortalMarkers": true,
 	// Player will need to craft atlas item to use atlas.
 	"itemNeeded": true,
 	"doScaleMarkers": false,
 	// Default zoom level. The number corresponds to the size of a block on the map relative to the size of a GUI pixel. Preferrably a power of 2.
-	"defaultScale": 0.5,
+	"defaultScale": 1.0,
 	// Minimum zoom level. The number corresponds to the size of a block on the map relative to the size of a GUI pixel. Preferrably a power of 2. Smaller values may decrease performance!
 	"minScale": 0.03125,
 	// Maximum zoom level. The number corresponds to the size of a block on the map relative to the size of a GUI pixel. Preferrably a power of 2.

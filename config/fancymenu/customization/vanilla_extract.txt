@@ -9,6 +9,11 @@ customization-meta {
 }
 
 customization {
+  name = vanilla_extract
+  action = setbackgroundpanorama
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }

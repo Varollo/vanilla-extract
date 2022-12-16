@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Varollo",
+      "uniqueId": "24cbb425-b6d6-444a-b51c-740d253ae3ff"
+    },
+    "time": 1671018930267,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/GqNtCLtbbg"
+    }
+  }
+]

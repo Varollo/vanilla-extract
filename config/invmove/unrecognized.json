@@ -15,7 +15,9 @@
     "com.unlikepaladin.pfm.client.screens.FreezerScreen": true,
     "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
     "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
-    "draylar.inmis.ui.BackpackHandledScreen": true
+    "draylar.inmis.ui.BackpackHandledScreen": true,
+    "hunternif.mc.impl.atlas.client.gui.GuiAtlas": true,
+    "svenhjol.charm.module.kilns.KilnScreen": true
   },
   "hideBackground": {
     "svenhjol.charm.module.atlases.AtlasScreen": true,
@@ -29,6 +31,8 @@
     "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
     "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
     "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
-    "draylar.inmis.ui.BackpackHandledScreen": true
+    "draylar.inmis.ui.BackpackHandledScreen": true,
+    "hunternif.mc.impl.atlas.client.gui.GuiAtlas": true,
+    "svenhjol.charm.module.kilns.KilnScreen": true
   }
 }

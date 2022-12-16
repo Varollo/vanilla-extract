@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/Wq4hGvg.png)
+![Logo](https://i.imgur.com/Wq4hGvg.png)
 
 ## **Introduction**
 
@@ -11,6 +11,7 @@ There are ~~currently~~ no tool mods (ex. Tinkers Construct, Tetra, etc). This i
 ---
 
 ## Minimum Requirements
+**THIS IS NOT A LIGHTWEIGHT PACK**
 * At least 6GB of allocated RAM, the rest should be fine as long as you are not playing on a potato.
 
 ## Known Issues
@@ -20,248 +21,291 @@ There are ~~currently~~ no tool mods (ex. Tinkers Construct, Tetra, etc). This i
 ---
 
 ## All thanks to these wonderful mods:
-*   [Create Support for Open Parties and Claims (by xaero96)](https://www.curseforge.com/minecraft/mc-mods/opac-fabric-create-support)
-*   [MemoryLeakFix (by FX\_PR0CESS)](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix)
-*   [Fabric Waystones (by LordDeatHunter)](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones)
-*   [Equipment Compare \[Fabric\] (by Grend\_G)](https://www.curseforge.com/minecraft/mc-mods/equipment-compare-fabric)
-*   [Fabric API (by modmuss50)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
-*   [Wandering Trapper (by lilypuree)](https://www.curseforge.com/minecraft/mc-mods/wandering-trapper)
-*   [\[Fabric/Forge\] Market Crates (1.15 to 1.19) (by lfaoanl)](https://www.curseforge.com/minecraft/mc-mods/market-crates)
-*   [ClickThrough (by Giselbaer)](https://www.curseforge.com/minecraft/mc-mods/clickthrough)
-*   [Better Biome Blend (by FionaTheMortal)](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
-*   [Craft slabs back into blocks (by 1\_block\_microwave)](https://www.curseforge.com/minecraft/mc-mods/craft-slabs-back-into-blocks)
-*   [Rotten Creatures (by fusionstudiomc)](https://www.curseforge.com/minecraft/mc-mods/rotten-creatures)
-*   [MmmMmmMmmMmm (Target Dummy) (by MehVahdJukaar)](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
-*   [Tips (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/tips)
-*   [Default Options (Fabric Edition) (by BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/default-options-fabric)
-*   [Blur (Fabric) (by Motschen)](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
-*   [Loading Screen Tips (by UltrusBot)](https://www.curseforge.com/minecraft/mc-mods/loading-screen-tips)
-*   [Controlling (by Jaredlll08)](https://www.curseforge.com/minecraft/mc-mods/controlling)
-*   [Fabric Seasons (by D4rkness\_King)](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons)
-*   [InvMoveCompats (by PieKing1215)](https://www.curseforge.com/minecraft/mc-mods/invmovecompats)
-*   [Iris Shaders (by coderbot)](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
-*   [Make Bubbles Pop \[Fabric\] (by Tschipcraft)](https://www.curseforge.com/minecraft/mc-mods/make-bubbles-pop)
-*   [Visuality (by PinkGoosik)](https://www.curseforge.com/minecraft/mc-mods/visuality)
-*   [Falling Leaves (Fabric) (by RandomMcSomethin)](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)
-*   [libIPN (by mirinimi)](https://www.curseforge.com/minecraft/mc-mods/libipn)
-*   [Stoneholm, Underground Villages (Fabric) (by TheGrimsey)](https://www.curseforge.com/minecraft/mc-mods/stoneholm)
-*   [Crafty Cuisine - Vanilla Inspired Food (by RandomMcSomethin)](https://www.curseforge.com/minecraft/mc-mods/crafty-cuisine-fabric)
-*   [Debugify (by XanderIsDev)](https://www.curseforge.com/minecraft/mc-mods/debugify)
-*   [Magic Combat Wands (by dmitrylovin)](https://www.curseforge.com/minecraft/mc-mods/magic-combat-wands)
-*   [Macaw's Lights and Lamps (by sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)
-*   [MaLiLib (by masady)](https://www.curseforge.com/minecraft/mc-mods/malilib)
-*   [Jade 🔍 (by Snownee\_)](https://www.curseforge.com/minecraft/mc-mods/jade)
-*   [Capybara \[Fabric\] (by ZestyBlaze)](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric)
-*   [Default Dark Mode (by nebuIr)](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode)
-*   [YUNG's API (Fabric) (by YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric)
-*   [Clumps (by Jaredlll08)](https://www.curseforge.com/minecraft/mc-mods/clumps)
-*   [More Axolotl Variants API (by AkashiiKun69)](https://www.curseforge.com/minecraft/mc-mods/mavapi)
-*   [Dynamic View\[Forge\] (by someaddon)](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)
-*   [Twigs (by ninnih\_)](https://www.curseforge.com/minecraft/mc-mods/twigs)
-*   [Better Animals Plus (by cybercat5555)](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
-*   [Continuity (by Pepper\_Bell)](https://www.curseforge.com/minecraft/mc-mods/continuity)
-*   [YUNG's Better Strongholds (Fabric) (by YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric)
-*   [Sodium (by jellysquid3\_)](https://www.curseforge.com/minecraft/mc-mods/sodium)
-*   [Just Mob Heads (Fabric) (by Serilum)](https://www.curseforge.com/minecraft/mc-mods/just-mob-heads-fabric)
-*   [KubeJS (by LatvianModder)](https://www.curseforge.com/minecraft/mc-mods/kubejs)
-*   [Lithium (Fabric) (by jellysquid3\_)](https://www.curseforge.com/minecraft/mc-mods/lithium)
-*   [AntiGhost (by Giselbaer)](https://www.curseforge.com/minecraft/mc-mods/antighost)
-*   [Detail Armor Bar \[Fabric\] (by 빨간라임)](https://www.curseforge.com/minecraft/mc-mods/detail-armor-bar)
-*   [Farmer's Knives \[Fabric\] (by ianm1647)](https://www.curseforge.com/minecraft/mc-mods/farmers-knives)
-*   [Villager Hats Mod (by PinkGoosik)](https://www.curseforge.com/minecraft/mc-mods/villager-hats-mod)
-*   [Not Enough Animations (by tr9zw)](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
-*   [Dark Paintings (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/dark-paintings)
-*   [Redstone Bits (by Shnupbups)](https://www.curseforge.com/minecraft/mc-mods/redstone-bits)
-*   [Clickable advancements\[Forge/Fabric\] (by someaddon)](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements)
-*   [Advancements Debug (by thetechnici4n)](https://www.curseforge.com/minecraft/mc-mods/advancements-debug)
-*   [Mossier Deepslate \[Fabric\] (by DigitalPear\_11)](https://www.curseforge.com/minecraft/mc-mods/mossier-deepslate)
-*   [Mouse Tweaks (by YaLTeR)](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
-*   [Villager Names (Fabric) (by YumatanGames)](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric)
-*   [Deepslate Instamine - Fabric/Forge (by nicguzzo)](https://www.curseforge.com/minecraft/mc-mods/deepslate-instamine)
-*   [Couplings (by HeckinChloe)](https://www.curseforge.com/minecraft/mc-mods/couplings)
-*   [FancyMenu \[Fabric\] (by Keksuccino)](https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric)
-*   [Macaw's Paintings (by sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings)
-*   [Dark Loading Screen (by Neecko5b84)](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
-*   [CTM Refabricated (by CodexAdrian)](https://www.curseforge.com/minecraft/mc-mods/ctm-refabricated)
-*   [Villagers follow Emeralds \[Fabric\] (by matjojo1000)](https://www.curseforge.com/minecraft/mc-mods/villagers-follow-emeralds-fabric)
-*   [Collective (Fabric) (by Serilum)](https://www.curseforge.com/minecraft/mc-mods/collective-fabric)
-*   [oωo (owo-lib) (by gliscowo)](https://www.curseforge.com/minecraft/mc-mods/owo-lib)
-*   [Simple Voice Chat (by henkelmax)](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
-*   [Climb Ladders Fast \[Fabric/Forge\] (by spoorn)](https://www.curseforge.com/minecraft/mc-mods/climb-ladders-fast)
-*   [Macaw's Doors (by sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
-*   [Dynamic FPS (by juliand665)](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
-*   [Chipped (by terrariumearth)](https://www.curseforge.com/minecraft/mc-mods/chipped)
-*   [Macaw's Bridges (by sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
-*   [Fastload (by FluffyBumblebe3)](https://www.curseforge.com/minecraft/mc-mods/fastload)
-*   [Anvil Restoration (Fabric) (by Serilum)](https://www.curseforge.com/minecraft/mc-mods/anvil-restoration-fabric)
-*   [More Geodes (by TheDeathlyCow)](https://www.curseforge.com/minecraft/mc-mods/emerald-geodes)
-*   [Gobber \[FABRIC\] (by kwpugh)](https://www.curseforge.com/minecraft/mc-mods/gobber-fabric)
-*   [Biome Makeover (by Lemonszz)](https://www.curseforge.com/minecraft/mc-mods/biome-makeover)
-*   [Antique Atlas (by Hunternif)](https://www.curseforge.com/minecraft/mc-mods/antique-atlas)
-*   [KubeJS Create (by LatvianModder)](https://www.curseforge.com/minecraft/mc-mods/kubejs-create)
-*   [InmisAddon (by Globox\_Z)](https://www.curseforge.com/minecraft/mc-mods/inmisaddon)
-*   [Axolotl Bucket Fix (by colderlavalamp)](https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix)
-*   [HerdsPanic (by Globox\_Z)](https://www.curseforge.com/minecraft/mc-mods/herdspanic)
-*   [BCLib (by Quiqueck)](https://www.curseforge.com/minecraft/mc-mods/bclib)
-*   [MoreAchievements \[Fabric\] (by elaterna)](https://www.curseforge.com/minecraft/mc-mods/moreachievements-fabric)
-*   [Nether's Delight (Fabric) (by StevePlayzz\_)](https://www.curseforge.com/minecraft/mc-mods/nethers-delight-fabric)
-*   [Universal Ores (Fabric) (by Hugman\_76)](https://www.curseforge.com/minecraft/mc-mods/universal-ores-fabric)
-*   [Leaves Us In Peace (by supersaiyansubtlety)](https://www.curseforge.com/minecraft/mc-mods/leaves-us-in-peace)
-*   [InvMove (by PieKing1215)](https://www.curseforge.com/minecraft/mc-mods/invmove)
-*   [Macaw's Fences and Walls (by sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
-*   [RightClickHarvest (by jamalam360)](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest)
-*   [Incendium (by Starmute)](https://www.curseforge.com/minecraft/mc-mods/incendium)
-*   [Friendly Fire (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/friendly-fire)
-*   [TerraBlender (Fabric) (by TheAdubbz)](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric)
-*   [Vein Mining (Fabric) (by TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/vein-mining-fabric)
-*   [Macaw's Trapdoors (by sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
-*   [Wandering Collector (by Siphalor)](https://www.curseforge.com/minecraft/mc-mods/wandering-collector)
-*   [Extra Alchemy (by zabi94)](https://www.curseforge.com/minecraft/mc-mods/extra-alchemy)
-*   [Fabric Enchantments (by safrodev)](https://www.curseforge.com/minecraft/mc-mods/fabric-enchantments)
-*   [Patchouli (Fabric/Quilt) (by williewillus)](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric)
-*   [Open Parties and Claims (by xaero96)](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims)
-*   [Balm (Fabric Edition) (by BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/balm-fabric)
-*   [Stack to Nearby Chests (by xiaocihua1337)](https://www.curseforge.com/minecraft/mc-mods/stack-to-nearby-chests)
-*   [Cave Enhancements (by exdrill\_10)](https://www.curseforge.com/minecraft/mc-mods/cave-enhancements)
-*   [Bookshelf (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
-*   [Light Overlay (Rift/Forge/Fabric) (by shedaniel)](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
-*   [Iceberg \[Fabric\] (by Grend\_G)](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric)
-*   [Macaw's Roofs (by sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
-*   [Skin Layers 3D (Fabric/Forge) (by tr9zw)](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
-*   [Better Third Person (by Socolio)](https://www.curseforge.com/minecraft/mc-mods/better-third-person)
-*   [Wolves Of Other Furs (W.O.O.F) (by itsmineblock11)](https://www.curseforge.com/minecraft/mc-mods/woof)
-*   [Konkrete \[Fabric\] (by Keksuccino)](https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric)
-*   [Wolves With Armor (by Draylar1)](https://www.curseforge.com/minecraft/mc-mods/wolves-with-armor)
-*   [BetterF3 (by cominixo)](https://www.curseforge.com/minecraft/mc-mods/betterf3)
-*   [Tom's Simple Storage Mod (Fabric) (by tom54541)](https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric)
-*   [Paladin's Furniture (by UnlikePaladin)](https://www.curseforge.com/minecraft/mc-mods/paladins-furniture)
-*   [TipTheScales (by Jaredlll08)](https://www.curseforge.com/minecraft/mc-mods/tipthescales)
-*   [Enchanted Vertical Slabs - BetterEnd Edition (by Enchanted\_Games)](https://www.curseforge.com/minecraft/mc-mods/enchanted-vertical-slabs-betterend-edition)
-*   [YUNG's Better Ocean Monuments (Fabric) (by YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric)
-*   [Scaffolding Drops Nearby (Fabric) (by Serilum)](https://www.curseforge.com/minecraft/mc-mods/scaffolding-drops-nearby-fabric)
-*   [Farmer's Delight \[Fabric\] (by NewHoryzon)](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric)
-*   [Better Advancements (by way2muchnoise)](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
-*   [Load My Resources \[Fabric\] (by Keksuccino)](https://www.curseforge.com/minecraft/mc-mods/load-my-resources-fabric)
-*   [More Axolotl Variants Mod (by AkashiiKun69)](https://www.curseforge.com/minecraft/mc-mods/mavm)
-*   [Blockus (by Brandcraft\_)](https://www.curseforge.com/minecraft/mc-mods/blockus)
-*   [Drip Sounds (Fabric) (by PieKing1215)](https://www.curseforge.com/minecraft/mc-mods/dripsounds-fabric)
-*   [Elytra Slot (Fabric) (by TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/elytra-slot-fabric)
-*   [Chat Heads (by dzwdz)](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
-*   [All Arrows Infinity Fix (by Jackbusters1)](https://www.curseforge.com/minecraft/mc-mods/all-arrows-infinity-fix)
-*   [Advanced Netherite \[FABRIC\] (by AutovwDev)](https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric)
-*   [JamLib (by jamalam360)](https://www.curseforge.com/minecraft/mc-mods/jamlib)
-*   [Create Fabric (by tropheusj)](https://www.curseforge.com/minecraft/mc-mods/create-fabric)
-*   [Memory Settings\[Forge/Fabric\] (by someaddon)](https://www.curseforge.com/minecraft/mc-mods/memory-settings)
-*   [Enchantment Descriptions (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
-*   [ShulkerBoxTooltip \[Fabric/Forge\] (by MisterPeModder)](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
-*   [Conjuring (by gliscowo)](https://www.curseforge.com/minecraft/mc-mods/conjuring)
-*   [Get It Together, Drops! (by bl4ckscor3)](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops)
-*   [Trinkets (Fabric) (by EmilyPloszaj)](https://www.curseforge.com/minecraft/mc-mods/trinkets)
-*   [Cloth API (Fabric) (by shedaniel)](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
-*   [Lovely Snails (by LambdAurora)](https://www.curseforge.com/minecraft/mc-mods/lovely-snails)
-*   [Enderscape (by lunarbunten)](https://www.curseforge.com/minecraft/mc-mods/enderscape)
-*   [YUNG's Better Dungeons (Fabric) (by YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric)
-*   [Architectury API (Fabric/Forge) (by shedaniel)](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
-*   [Advancements Enlarger (by shedaniel)](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
-*   [Chisel Refabricated (by Slaincow)](https://www.curseforge.com/minecraft/mc-mods/chisel-reborn)
-*   [Better Compatibility Checker (by Gaz\_)](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
-*   [Slightly Improved Font (32x) (by LatvianModder)](https://www.curseforge.com/minecraft/texture-packs/slightly-improved-font)
-*   [GeckoLib (by ThanosGecko)](https://www.curseforge.com/minecraft/mc-mods/geckolib)
-*   [Mod Menu (by ProspectorDev)](https://www.curseforge.com/minecraft/mc-mods/modmenu)
-*   [Roughly Enough Resources (by theorbagain)](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources)
-*   [Language Reload (by Jerozgen)](https://www.curseforge.com/minecraft/mc-mods/language-reload)
-*   [Jade Addons (Fabric) (by Snownee\_)](https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric)
-*   [Fish of Thieves (by SteveKunG)](https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves)
-*   [Mob Catcher \[FABRIC/FORGE\] (by kwpugh)](https://www.curseforge.com/minecraft/mc-mods/mob-catcher-fabric)
-*   [Creeper Overhaul (by joosh\_7889)](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)
-*   [Roughly Enough Items Fabric/Forge (REI) (by shedaniel)](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
-*   [EditSign (Forge&Fabric) (by arthadivo)](https://www.curseforge.com/minecraft/mc-mods/edit-sign)
-*   [Simple Copper Pipes (by lunadedogs)](https://www.curseforge.com/minecraft/mc-mods/simple-copper-pipes)
-*   [MixinTrace (by comp500)](https://www.curseforge.com/minecraft/mc-mods/mixintrace)
-*   [Rhino (by LatvianModder)](https://www.curseforge.com/minecraft/mc-mods/rhino)
-*   [PolyLib (by Official\_CreeperHost)](https://www.curseforge.com/minecraft/mc-mods/polylib)
-*   [Go Fish (by Draylar1)](https://www.curseforge.com/minecraft/mc-mods/go-fish)
-*   [Cloth Config API (Fabric/Forge) (by shedaniel)](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
-*   [Dawn API (by Hugman\_76)](https://www.curseforge.com/minecraft/mc-mods/dawn)
-*   [Moonlight Lib (by MehVahdJukaar)](https://www.curseforge.com/minecraft/mc-mods/selene)
-*   [Cherished Worlds (Fabric) (by TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric)
-*   [The Wild Backport (by blackgear27)](https://www.curseforge.com/minecraft/mc-mods/the-wild-backport)
-*   [OfflineSkins (Fabric) (by LainMI)](https://www.curseforge.com/minecraft/mc-mods/offlineskins-fabric)
-*   [Storage Labels (by MehVahdJukaar)](https://www.curseforge.com/minecraft/mc-mods/labels)
-*   [Macaw's Windows (by sketch\_macaw)](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
-*   [Infusion Table (by jptrzy)](https://www.curseforge.com/minecraft/mc-mods/infusion-table)
-*   [Dangerous Stone Cutter \[Forge/Fabric\] (by morimori0317)](https://www.curseforge.com/minecraft/mc-mods/dangerousstonecutter)
-*   [Towns and Towers (by Biban\_Auriu)](https://www.curseforge.com/minecraft/mc-mods/towns-and-towers)
-*   [Roughly Enough Professions (REP) (by Mrbysco)](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-professions-rep)
-*   [Piercing Paxels (by AmyMialee)](https://www.curseforge.com/minecraft/mc-mods/piercing-paxels)
-*   [Faux Custom Entity Data (by Jaredlll08)](https://www.curseforge.com/minecraft/mc-mods/faux-custom-entity-data)
-*   [Paradise Lost (by ImmortalDevs)](https://www.curseforge.com/minecraft/mc-mods/paradise-lost)
-*   [Naturalist (by Starfish\_Studios)](https://www.curseforge.com/minecraft/mc-mods/naturalist)
-*   [DeftuLib (by DeftuDev)](https://www.curseforge.com/minecraft/mc-mods/deftulib)
-*   [Icarus (by Camellias\_)](https://www.curseforge.com/minecraft/mc-mods/icarus)
-*   [Entity Culling Fabric/Forge (by tr9zw)](https://www.curseforge.com/minecraft/mc-mods/entityculling)
-*   [Friends&Foes (Fabric) (by faboslav)](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes)
-*   [Carrier (by GabrielHOlv)](https://www.curseforge.com/minecraft/mc-mods/carrier)
-*   [Inmis (by Draylar1)](https://www.curseforge.com/minecraft/mc-mods/inmis)
-*   [MiniHUD (by masady)](https://www.curseforge.com/minecraft/mc-mods/minihud)
-*   [Ingredient Extension API (by Jaredlll08)](https://www.curseforge.com/minecraft/mc-mods/ingredient-extension-api)
-*   [YUNG's Better Witch Huts (Fabric) (by YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-fabric)
-*   [Probably Chests (by TheArcanePigeon)](https://www.curseforge.com/minecraft/mc-mods/probably-chests)
-*   [Fabric Language Kotlin (by modmuss50)](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
-*   [Log Begone (by AzureDoomC)](https://www.curseforge.com/minecraft/mc-mods/log-begone)
-*   [YUNG's Better Mineshafts (Fabric) (by YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)
-*   [Jeremy3463's Earth Mobs (by jeremy3463yt)](https://www.curseforge.com/minecraft/mc-mods/minecraft-earth-mobs)
-*   [Cloth Config API (UNUSED) (by shedaniel)](https://www.curseforge.com/minecraft/mc-mods/cloth-config-legacy)
-*   [CraftTweaker (by Jaredlll08)](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
-*   [Nether Chest (Fabric) (by Kir\_Antipov)](https://www.curseforge.com/minecraft/mc-mods/nether-chest-fabric)
-*   [Phosphor (Fabric) (by jellysquid3\_)](https://www.curseforge.com/minecraft/mc-mods/phosphor)
-*   [Additional Additions | Fabric (by dqu1jjj)](https://www.curseforge.com/minecraft/mc-mods/additional-additions)
-*   [Guard Villagers (Fabric/Quilt) (by MrSterner\_)](https://www.curseforge.com/minecraft/mc-mods/guard-villagers-fabric)
-*   [Painting Cycle (by haykam)](https://www.curseforge.com/minecraft/mc-mods/painting-cycle)
-*   [Chisels & Bits - For Fabric (by OrionOnline)](https://www.curseforge.com/minecraft/mc-mods/chisels-bits-for-fabric)
-*   [Void Totem (Fabric) (by Affehund)](https://www.curseforge.com/minecraft/mc-mods/voidtotem-fabric)
-*   [More Slabs, Stairs, and Walls (by Nibaru)](https://www.curseforge.com/minecraft/mc-mods/more-slabs-stairs-and-walls)
-*   [Forge Config API Port (by Fuzs\_)](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric)
-*   [Dynamic Crosshair (by Crendgrim)](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair)
-*   [Cave Dust (by RileyCannotEven)](https://www.curseforge.com/minecraft/mc-mods/cave-dust)
-*   [BetterNether (by Quiqueck)](https://www.curseforge.com/minecraft/mc-mods/betternether)
-*   [Chalk (Fabric) (by DaFuqsy)](https://www.curseforge.com/minecraft/mc-mods/chalk-fabric)
-*   [Factory Blocks (by Slaincow)](https://www.curseforge.com/minecraft/mc-mods/factory-blocks)
-*   [The Twilight Forest (by Benimatic)](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
-*   [Sneak Through Berries (by Trikzon)](https://www.curseforge.com/minecraft/mc-mods/sneak-through-berries)
-*   [Dyed (by yurisuika)](https://www.curseforge.com/minecraft/mc-mods/dyed)
-*   [Axes Are Weapons (Fabric/Forge) (by Fourmisain)](https://www.curseforge.com/minecraft/mc-mods/axes-are-weapons)
-*   [Auto Workstations (Fabric) (by BillBodkin)](https://www.curseforge.com/minecraft/mc-mods/auto-workstations-fabric)
-*   [Easy Emerald Tools & More \[FABRIC\] (by kwpugh)](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric)
-*   [Mob Scarecrows (by TheArcanePigeon)](https://www.curseforge.com/minecraft/mc-mods/mob-scarecrows)
-*   [Expanded Delight \[Fabric\] (by ianm1647)](https://www.curseforge.com/minecraft/mc-mods/expanded-delight)
-*   [Charm of Undying (Fabric) (by TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/charm-of-undying-fabric)
-*   [Adorn (by Juicebus)](https://www.curseforge.com/minecraft/mc-mods/adorn)
-*   [Charm (by svenhjol)](https://www.curseforge.com/minecraft/mc-mods/charm)
-*   [Polymorph (Fabric) (by TheIllusiveC4)](https://www.curseforge.com/minecraft/mc-mods/polymorph-fabric)
-*   [Decorative Blocks (by stohun)](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
-*   [BetterEnd (by Quiqueck)](https://www.curseforge.com/minecraft/mc-mods/betterend)
-*   [Better Mount HUD (by Lortseam\_)](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud)
-*   [Better Ping Display \[Fabric\] (by Quintinity)](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
-*   [YUNG's Bridges (Fabric) (by YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric)
-*   [Melon Slabs (by I\_totally\_exist)](https://www.curseforge.com/minecraft/mc-mods/melon-slabs)
-*   [Wooden Hoppers (by haykam)](https://www.curseforge.com/minecraft/mc-mods/wooden-hoppers)
-*   [Just an End Anchor (by KxmischesDomi)](https://www.curseforge.com/minecraft/mc-mods/just-an-end-anchor)
-*   [Indium (by comp500)](https://www.curseforge.com/minecraft/mc-mods/indium)
-*   [Things \[Fabric\] (by gliscowo)](https://www.curseforge.com/minecraft/mc-mods/things-fabric)
-*   [Advancement Plaques \[Fabric\] (by Grend\_G)](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric)
-*   [Towers of the Wild: Additions (by Aureljz)](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-additions)
-*   [Another Furniture (by Starfish\_Studios)](https://www.curseforge.com/minecraft/mc-mods/another-furniture)
-*   [I Know What I'm Doing (IKWID) (by HeckinChloe)](https://www.curseforge.com/minecraft/mc-mods/i-know-what-im-doing)
-*   [Dynamic View\[Fabric\] (by someaddon)](https://www.curseforge.com/minecraft/mc-mods/dynamic-view-fabric)
-*   [Tool Stats (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/tool-stats)
-*   [Bobby (by Johni0702)](https://www.curseforge.com/minecraft/mc-mods/bobby)
-*   [YUNG's Better Desert Temples (Fabric) (by YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric)
-*   [Ambient Environment (by Jaredlll08)](https://www.curseforge.com/minecraft/mc-mods/ambient-environment)
-*   [More Villagers \[Fabric\] (by SameDifferent)](https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric)
-*   [AppleSkin (by squeek502)](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-*   [CreatePlus (by Yjn024)](https://www.curseforge.com/minecraft/mc-mods/createplus)
-*   [DeepslateCutting (by NoComment1105)](https://www.curseforge.com/minecraft/mc-mods/deepslatecutting)
-*   [Additional Banners (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/additional-banners)
-*   [Food Effect Tooltips (by DaFuqsy)](https://www.curseforge.com/minecraft/mc-mods/food-effect-tooltips)
-*   [YUNG's Extras (Fabric) (by YUNGNICKYOUNG)](https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric)
+
+<ul>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/friendly-fire">Friendly Fire (by DarkhaxDev)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair">Dynamic Crosshair (by Crendgrim)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/owo-lib">oωo (owo-lib) (by gliscowo)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/spoorns-dual-wield">Spoorn Dual Wield (by spoorn)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/cloth-config-legacy">Cloth Config API (UNUSED) (by shedaniel)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/sodium">Sodium (by jellysquid3_)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/macaws-bridges">Macaw's Bridges (by sketch_macaw)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/mavapi">More Axolotl Variants API (by AkashiiKun69)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/crops-love-rain">Crops Love Rain (by CoalTheBurnRock)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/visuality">Visuality (by PinkGoosik)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/modmenu">Mod Menu (by ProspectorDev)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/herdspanic">HerdsPanic (by Globox_Z)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/hopo-better-ruined-portals">Hopo Better Ruined Portals (by hoponopono1111)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator">Chunky (Fabric) (by pop4959)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul">Creeper Overhaul (by joosh_7889)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/the-wild-backport">The Wild Backport (by blackgear27)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/not-enough-animations">Not Enough Animations (by tr9zw)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/conjuring">Conjuring (by gliscowo)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/equipment-compare-fabric">Equipment Compare [Fabric] (by Grend_G)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/cloth-config">Cloth Config API (Fabric/Forge) (by shedaniel)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat">Simple Voice Chat (by henkelmax)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/bobby">Bobby (by Johni0702)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/universal-ores-fabric">Universal Ores (Fabric) (by Hugman_76)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/adorn">Adorn (by Juicebus)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save">Server Performance - Smooth Chunk Save[Forge/Fabric] (by someaddon)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/all-arrows-infinity-fix">All Arrows Infinity Fix (by Jackbusters1)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/trinkets">Trinkets (Fabric) (by EmilyPloszaj)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-additions">Towers of the Wild: Additions (by Aureljz)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/irisshaders">Iris Shaders (by coderbot)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/mavm">More Axolotl Variants Mod (by AkashiiKun69)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/createplus">CreatePlus (by Yjn024)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/couplings">Couplings (by HeckinChloe)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/texture-packs/default-dark-mode">Default Dark Mode (by nebuIr)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/craft-slabs-back-into-blocks">Craft slabs back into blocks (by 1_block_microwave)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/balm-fabric">Balm (Fabric Edition) (by BlayTheNinth)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-view">Dynamic View[Forge] (by someaddon)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks-fabric">Crafting Tweaks (Fabric Edition) (by BlayTheNinth)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/magic-combat-wands">Magic Combat Wands (by dmitrylovin)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/redstone-bits">Redstone Bits (by Shnupbups)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/controlling">Controlling (by Jaredlll08)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/offlineskins-fabric">OfflineSkins (Fabric) (by LainMI)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/mossier-deepslate">Mossier Deepslate [Fabric] (by DigitalPear_11)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/timeoutout-fabric">TimeOutOut (Fabric) (by potatoboy99999)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/labels">Storage Labels (by MehVahdJukaar)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/villagers-follow-emeralds-fabric">Villagers follow Emeralds [Fabric] (by matjojo1000)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/chipped">Chipped (by terrariumearth)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/roughly-enough-trades">Roughly Enough Trades (by GrigLog)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/paradise-lost">Paradise Lost (by ImmortalDevs)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-fabric">Cosmetic Armor [FABRIC] (by Apace100)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/dual-riders">Dual Riders (by Flytre7)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/food-effect-tooltips">Food Effect Tooltips (by DaFuqsy)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric">FTB Teams (Fabric) (by FTB)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric">TerraBlender (Fabric) (by TheAdubbz)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/cave-enhancements">Cave Enhancements (by exdrill_10)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric">Easy Emerald Tools & More [FABRIC] (by kwpugh)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/memoryleakfix">MemoryLeakFix (by FX_PR0CESS)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/harvest-scythes">Harvest Scythes (by LordDeatHunter)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/can-you-trash-it">Can You Trash It? (by reinderp__)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/stoneholm">Stoneholm, Underground Villages (Fabric) (by TheGrimsey)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus">Better Animals Plus (by cybercat5555)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/edit-sign">EditSign (Forge&Fabric) (by arthadivo)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/wolves-with-armor">Wolves With Armor (by Draylar1)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/starter-items">Starter Items, Messages, and Commands (by spoorn)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/animal-feeding-trough">Animal Feeding Trough [Fabric | Forge | Quilt] (by Slexom)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/rotten-creatures">Rotten Creatures (by fusionstudiomc)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/macaws-roofs">Macaw's Roofs (by sketch_macaw)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/another-furniture">Another Furniture (by Starfish_Studios)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/betternether">BetterNether (by Quiqueck)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/untitled-duck-mod-fabric">Untitled Duck Mod (Fabric) (by Okabintaro)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric">Clear Despawn [Fabric] (by StrikerRocker)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/nether-chest-fabric">Nether Chest (Fabric) (by Kir_Antipov)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric">YUNG's Bridges (Fabric) (by YUNGNICKYOUNG)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings">Macaw's Paths and Pavings (by sketch_macaw)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric">YUNG's Better Dungeons (Fabric) (by YUNGNICKYOUNG)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric">FTB Library (Fabric) (by FTB)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/charm">Charm (by svenhjol)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric">YUNG's Better Mineshafts (Fabric) (by YUNGNICKYOUNG)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/libipn">libIPN (by mirinimi)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/moreachievements-fabric">MoreAchievements [Fabric] (by elaterna)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/betterend">BetterEnd (by Quiqueck)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/advancements-debug">Advancements Debug (by thetechnici4n)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/lapis-reserve">Lapis Reserve (by sfort__)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/biome-makeover">Biome Makeover (by Lemonszz)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items">Roughly Enough Items Fabric/Forge (REI) (by shedaniel)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric">Konkrete [Fabric] (by Keksuccino)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/antighost">AntiGhost (by Giselbaer)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/paladins-furniture">Paladin's Furniture (by UnlikePaladin)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/incantationem">Incantationem (by Luligabi12)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/invmovecompats">InvMoveCompats (by PieKing1215)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/invmove">InvMove (by PieKing1215)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/things-fabric">Things [Fabric] (by gliscowo)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/stack-to-nearby-chests">Stack to Nearby Chests (by xiaocihua1337)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/geckolib">GeckoLib (by ThanosGecko)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/trashslot-fabric-edition">TrashSlot (Fabric Edition) (by BlayTheNinth)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/more-slabs-stairs-and-walls">More Slabs, Stairs, and Walls (by Nibaru)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/camping-sticks">Camping Sticks (by DaniK1ngRD)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/better-third-person">Better Third Person (by Socolio)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/guard-villagers-fabric">Guard Villagers (Fabric/Quilt) (by MrSterner_)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric">YUNG's Better Strongholds (Fabric) (by YUNGNICKYOUNG)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/climb-ladders-fast">Climb Ladders Fast [Fabric/Forge] (by spoorn)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/betterf3">BetterF3 (by cominixo)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest">The Twilight Forest (by Benimatic)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/blockus">Blockus (by Brandcraft_)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/blur-fabric">Blur (Fabric) (by Motschen)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/i-know-what-im-doing">I Know What I'm Doing (IKWID) (by HeckinChloe)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/chat-heads">Chat Heads (by dzwdz)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/inmis">Inmis (by Draylar1)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric">YUNG's Better Ocean Monuments (Fabric) (by YUNGNICKYOUNG)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/dark-paintings">Dark Paintings (by DarkhaxDev)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/painting-cycle">Painting Cycle (by haykam)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/macaws-windows">Macaw's Windows (by sketch_macaw)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/incendium">Incendium (by Starmute)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone">Feature NBT Deadlock Be Gone (by telepathicgrunt)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/charm-of-undying-fabric">Charm of Undying (Fabric) (by TheIllusiveC4)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric">FancyMenu [Fabric] (by Keksuccino)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/rightclickharvest">RightClickHarvest (by jamalam360)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/minecart-direction-follow">Better minecart rotation (Fabric) (by KosmX)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/icarus">Icarus (by Camellias_)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/light-overlay">Light Overlay (Rift/Forge/Fabric) (by shedaniel)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/botania-fabric">Botania (Fabric/Quilt) (by williewillus)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/create-fabric">Create Fabric (by tropheusj)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin">Fabric Language Kotlin (by modmuss50)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/minihud">MiniHUD (by masady)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric">Falling Leaves (Fabric) (by RandomMcSomethin)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/inmisaddon">InmisAddon (by Globox_Z)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric">Tom's Simple Storage Mod (Fabric) (by tom54541)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/onastick">⚒️ On A Stick (by andantet)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/chisels-bits-for-fabric">Chisels & Bits - For Fabric (by OrionOnline)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/make-bubbles-pop">Make Bubbles Pop [Fabric] (by Tschipcraft)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/appleskin">AppleSkin (by squeek502)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/boatjump">[Fabric] BoatJump (by daniel___k)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker">Better Compatibility Checker (by Gaz_)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village">ChoiceTheorem's Overhauled Village (by ChoiceTheorem)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/skinned-lanterns-fabric">Skinned Lanterns (Fabric) (by nuxthefox)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger">Advancements Enlarger (by shedaniel)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/farmers-knives">Farmer's Knives [Fabric] (by ianm1647)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/axes-are-weapons">Axes Are Weapons (Fabric/Forge) (by Fourmisain)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric">More Villagers [Fabric] (by SameDifferent)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/roughly-enough-professions-rep">Roughly Enough Professions (REP) (by Mrbysco)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric">Advanced Netherite [FABRIC] (by AutovwDev)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/wandering-collector">Wandering Collector (by Siphalor)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/macaws-paintings">Macaw's Paintings (by sketch_macaw)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/fabric-waystones">Fabric Waystones (by LordDeatHunter)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/faux-custom-entity-data">Faux Custom Entity Data (by Jaredlll08)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/anvil-restoration-fabric">Anvil Restoration (Fabric) (by Serilum)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/dangerousstonecutter">Dangerous Stone Cutter [Forge/Fabric] (by morimori0317)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/enderscape">Enderscape (by lunarbunten)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/doggo-mod">Doggo Mod (by MrKacafirekCZ)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/dyed">Dyed (by yurisuika)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/voidtotem-fabric">Void Totem (Fabric) (by Affehund)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/towns-and-towers">Towns and Towers (by Biban_Auriu)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/jade">Jade 🔍 (by Snownee_)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric">Iceberg [Fabric] (by Grend_G)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves">Fish of Thieves (by SteveKunG)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops">Get It Together, Drops! (by bl4ckscor3)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric">YUNG's API (Fabric) (by YUNGNICKYOUNG)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-fps">Dynamic FPS (by juliand665)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/deepslate-instamine">Deepslate Instamine - Fabric/Forge (by nicguzzo)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/market-crates">[Fabric/Forge] Market Crates (1.15 to 1.19) (by lfaoanl)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/chalk-fabric">Chalk (Fabric) (by DaFuqsy)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/crafttweaker">CraftTweaker (by Jaredlll08)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/fabric-seasons">Fabric Seasons (by D4rkness_King)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/additional-banners">Additional Banners (by DarkhaxDev)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/wandering-trapper">Wandering Trapper (by lilypuree)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/indium">Indium (by comp500)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-view-fabric">Dynamic View[Fabric] (by someaddon)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/polylib">PolyLib (by Official_CreeperHost)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack">Global Packs (by JTK222)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm">MmmMmmMmmMmm (Target Dummy) (by MehVahdJukaar)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/emerald-geodes">More Geodes (by TheDeathlyCow)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric">Forge Config API Port (by Fuzs_)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/better-stats">Better Statistics Screen (Fabric) (by TheCSDev)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix">Axolotl Bucket Fix (by colderlavalamp)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/sneak-through-berries">Sneak Through Berries (by Trikzon)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/additional-additions">Additional Additions | Fabric (by dqu1jjj)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric">Repurposed Structures (Quilt/Fabric) (by telepathicgrunt)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/deftulib">DeftuLib (by DeftuDev)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/illuminations">Illuminations 🔥 (by doctor4t)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors">Macaw's Trapdoors (by sketch_macaw)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/mob-catcher-fabric">Mob Catcher [FABRIC/FORGE] (by kwpugh)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric">Better Ping Display [Fabric] (by Quintinity)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/fabric-api">Fabric API (by modmuss50)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2">FTB Backups 2 (by FTB)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/ctm-refabricated">CTM Refabricated (by CodexAdrian)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/probably-chests">Probably Chests (by TheArcanePigeon)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/rhino">Rhino (by LatvianModder)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/dripsounds-fabric">Drip Sounds (Fabric) (by PieKing1215)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric">Farmer's Delight [Fabric] (by NewHoryzon)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next">Inventory Profiles Next (by mirinimi)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/texture-packs/slightly-improved-font">Slightly Improved Font (32x) (by LatvianModder)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/just-an-end-anchor">Just an End Anchor (by KxmischesDomi)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/just-mob-heads-fabric">Just Mob Heads (Fabric) (by Serilum)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/expanded-delight">Expanded Delight [Fabric] (by ianm1647)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/villager-hats-mod">Villager Hats Mod (by PinkGoosik)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/cave-dust">Cave Dust (by RileyCannotEven)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld">William Wythers' Overhauled Overworld (by Cristelknight)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/tipthescales">TipTheScales (by Jaredlll08)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/decorative-blocks">Decorative Blocks (by stohun)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/lib">Flytre Lib (FlytreLib) (by Flytre7)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/memory-settings">Memory Settings[Forge/Fabric] (by someaddon)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/factory-blocks">Factory Blocks (by Slaincow)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/ingredient-extension-api">Ingredient Extension API (by Jaredlll08)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/deepslatecutting">DeepslateCutting (by NoComment1105)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/go-fish">Go Fish (by Draylar1)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/debugify">Debugify (by XanderIsDev)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/detail-armor-bar">Detail Armor Bar [Fabric] (by 빨간라임)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/kubejs">KubeJS (by LatvianModder)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/macaws-doors">Macaw's Doors (by sketch_macaw)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/elytra-slot-fabric">Elytra Slot (Fabric) (by TheIllusiveC4)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/default-options-fabric">Default Options (Fabric Edition) (by BlayTheNinth)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/almost-unified">Almost Unified (by TeamAlmostReliable)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/leaves-us-in-peace">Leaves Us In Peace (by supersaiyansubtlety)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/lithium">Lithium (Fabric) (by jellysquid3_)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/roughly-enough-loot-tables">Roughly Enough Loot Tables (by GrigLog)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/melon-slabs">Melon Slabs (by I_totally_exist)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/carrier">Carrier (by GabrielHOlv)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/collective-fabric">Collective (Fabric) (by Serilum)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric">YUNG's Extras (Fabric) (by YUNGNICKYOUNG)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/extra-alchemy">Extra Alchemy (by zabi94)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/chisel-reborn">Chisel Refabricated (by Slaincow)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/fabric-enchantments">Fabric Enchantments (by safrodev)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/enchanted-vertical-slabs-betterend-edition">Enchanted Vertical Slabs - BetterEnd Edition (by Enchanted_Games)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/mob-scarecrows">Mob Scarecrows (by TheArcanePigeon)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-fabric">YUNG's Better Witch Huts (Fabric) (by YUNGNICKYOUNG)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric">Patchouli (Fabric/Quilt) (by williewillus)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/bookshelf">Bookshelf (by DarkhaxDev)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/better-advancements">Better Advancements (by way2muchnoise)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/nethers-delight-fabric">Nether's Delight (Fabric) (by StevePlayzz_)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/jamlib">JamLib (by jamalam360)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric">Villager Names (Fabric) (by YumatanGames)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/naturalist">Naturalist (by Starfish_Studios)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/clickable-advancements">Clickable advancements[Forge/Fabric] (by someaddon)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/friends-and-foes">Friends&Foes (Fabric) (by faboslav)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/simple-copper-pipes">Simple Copper Pipes (by lunadedogs)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/spark">spark (by Iucko)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric">Cherished Worlds (Fabric) (by TheIllusiveC4)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/kubejs-create">KubeJS Create (by LatvianModder)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/architectury-api">Architectury API (Fabric/Forge) (by shedaniel)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/better-biome-blend">Better Biome Blend (by FionaTheMortal)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen">Dark Loading Screen (by Neecko5b84)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/load-my-resources-fabric">Load My Resources [Fabric] (by Keksuccino)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric">YUNG's Better Desert Temples (Fabric) (by YUNGNICKYOUNG)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/gobber-fabric">Gobber [FABRIC] (by kwpugh)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/piercing-paxels">Piercing Paxels (by AmyMialee)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/loading-screen-tips">Loading Screen Tips (by UltrusBot)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks">Mouse Tweaks (by YaLTeR)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/clickthrough">ClickThrough (by Giselbaer)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/cloth-api">Cloth API (Fabric) (by shedaniel)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/lovely-snails">Lovely Snails (by LambdAurora)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/infusion-table">Infusion Table (by jptrzy)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/tool-stats">Tool Stats (by DarkhaxDev)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/malilib">MaLiLib (by masady)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/ambient-environment">Ambient Environment (by Jaredlll08)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/woof">Wolves Of Other Furs (W.O.O.F) (by itsmineblock11)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/antique-atlas">Antique Atlas (by Hunternif)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/twigs">Twigs (by ninnih_)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip">ShulkerBoxTooltip [Fabric/Forge] (by MisterPeModder)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/vein-mining-fabric">Vein Mining (Fabric) (by TheIllusiveC4)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/language-reload">Language Reload (by Jerozgen)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/mixintrace">MixinTrace (by comp500)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/crafty-cuisine-fabric">Crafty Cuisine - Vanilla Inspired Food (by RandomMcSomethin)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/better-mount-hud">Better Mount HUD (by Lortseam_)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/capybara-fabric">Capybara [Fabric] (by ZestyBlaze)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps">Macaw's Lights and Lamps (by sketch_macaw)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/entityculling">Entity Culling Fabric/Forge (by tr9zw)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d">Skin Layers 3D (Fabric/Forge) (by tr9zw)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/dawn">Dawn API (by Hugman_76)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/fastload">Fastload (by FluffyBumblebe3)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/evans-mini-coal">Evan's Mini Coal (by EvanGamesLive)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/polymorph-fabric">Polymorph (Fabric) (by TheIllusiveC4)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/phosphor">Phosphor (Fabric) (by jellysquid3_)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions">Enchantment Descriptions (by DarkhaxDev)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/grims-transportables">Grim's Transportables (by TheGrimsey)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/bclib">BCLib (by Quiqueck)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/boat-container">Boat Container (by KxmischesDomi)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/wooden-hoppers">Wooden Hoppers (by haykam)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/log-begone">Log Begone (by AzureDoomC)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/continuity">Continuity (by Pepper_Bell)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls">Macaw's Fences and Walls (by sketch_macaw)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric">Advancement Plaques [Fabric] (by Grend_G)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/scaffolding-drops-nearby-fabric">Scaffolding Drops Nearby (Fabric) (by Serilum)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/clumps">Clumps (by Jaredlll08)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources">Roughly Enough Resources (by theorbagain)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/pollen">Pollen (by moonflowerteam)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric">Jade Addons (Fabric) (by Snownee_)</a></li>
+</ul>
