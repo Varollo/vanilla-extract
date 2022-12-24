@@ -17,7 +17,7 @@
   },
   "disableWarnings": {
     "desc:": "Disable the memory warnings, default: false",
-    "disableWarnings": false
+    "disableWarnings": true
   },
   "helpfullinkmessage": {
     "desc:": "Set the help message for changing ram allocation, you can use html here e.g. for setting a link to a wiki page",

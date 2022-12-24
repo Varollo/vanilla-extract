@@ -17,7 +17,11 @@
     "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
     "draylar.inmis.ui.BackpackHandledScreen": true,
     "hunternif.mc.impl.atlas.client.gui.GuiAtlas": true,
-    "svenhjol.charm.module.kilns.KilnScreen": true
+    "svenhjol.charm.module.kilns.KilnScreen": true,
+    "earth.terrarium.chipped.menus.ChippedScreen": true,
+    "org.cloudwarp.probablychests.screen.PCMimicScreen": true,
+    "fi.dy.masa.minihud.gui.GuiShapeEditor": true,
+    "svenhjol.charm.module.woodcutters.WoodcutterScreen": true
   },
   "hideBackground": {
     "svenhjol.charm.module.atlases.AtlasScreen": true,
@@ -33,6 +37,9 @@
     "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
     "draylar.inmis.ui.BackpackHandledScreen": true,
     "hunternif.mc.impl.atlas.client.gui.GuiAtlas": true,
-    "svenhjol.charm.module.kilns.KilnScreen": true
+    "svenhjol.charm.module.kilns.KilnScreen": true,
+    "earth.terrarium.chipped.menus.ChippedScreen": true,
+    "org.cloudwarp.probablychests.screen.PCMimicScreen": true,
+    "svenhjol.charm.module.woodcutters.WoodcutterScreen": true
   }
 }

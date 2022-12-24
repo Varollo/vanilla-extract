@@ -30,7 +30,7 @@
 	   - repair amount per item
 	   ******************************
 	*/
-	"enableGridCrafting": true,
+	"enableGridCrafting": false,
 	"woodenRepairAmount": 20,
 	"stoneRepairAmount": 40,
 	"goldRepairAmount": 32,
