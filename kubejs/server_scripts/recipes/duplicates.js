@@ -2,6 +2,9 @@ function duplicateRecipes(controller) {
 	/* === DUPLICATE REMOVAL === */
 	console.info(`Resolving duplicate recipes for ${PACK_NAME}...`)
 
+	// Copper Button
+	controller.remove({output: '#redstonebits:copper_buttons'});
+
 	// Fried egg
 	controller.removeMany([
 		controller.craft_types.SMELTING,
