@@ -33,7 +33,7 @@
 		// Whether or not to move all drops to the same location
 		"relocateDrops": true,
 		// Whether or not the tool can break while mining additional blocks
-		"preventToolDestruction": false,
+		"preventToolDestruction": true,
 		// Whether or not the tool takes damage from mining additional blocks
 		"addToolDamage": true,
 		// The multiplier to tool damage from mining additional blocks
@@ -45,7 +45,7 @@
 		// Whether or not to stop vein mining when the tool can no longer be used
 		"limitedByDurability": true,
 		// Whether to activate vein mining (if using with the enchantment) by standing, crouching, or holding down the keybind ("STANDING", "CROUCHING", "KEYBINDING")
-		"activationState": "STANDING",
+		"activationState": "CROUCHING",
 		// Whether to activate vein mining (if using without the enchantment) by standing, crouching, or holding down the keybind ("STANDING", "CROUCHING", "KEYBINDING")
 		"activationStateWithoutEnchantment": "KEYBINDING",
 		// List of whitelisted/blacklisted blocks or block tags

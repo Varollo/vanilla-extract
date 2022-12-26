@@ -1,0 +1,69 @@
+{
+  "villagersGeneralConfig": {
+    "healOnWake": true,
+    "villagersDontBreed": false,
+    "villagerBabiesRequireWorkstationAndBed": false,
+    "villagersDontLookForWorkstationsAtNight": true,
+    "villagersEatMelons": true,
+    "villagersEatPumpkinPie": true,
+    "villagersDontTrampleCrops": true,
+    "noNitwitVillagers": false,
+    "allNitwitVillagers": false,
+    "growUpTime": 24000,
+    "allBabyVillagers": false,
+    "foreverYoung": false
+  },
+  "villagerPathfindingConfig": {
+    "findPOIRange": 128,
+    "pathfindingMaxRange": 256,
+    "minimumPOISearchDistance": 3,
+    "villagersAvoidCactus": true,
+    "villagersAvoidWater": true,
+    "villagersAvoidRail": true,
+    "villagersAvoidTrapdoor": true,
+    "villagersAvoidPowderedSnow": true,
+    "villagerWanderingFix": true,
+    "walkTowardsTaskMaxRunTime": 2400,
+    "villagersDontClimb": true,
+    "villagerSafeFallDistance": 2
+  },
+  "villagersProfessionConfig": {
+    "armorerHealsGolems": true,
+    "armorerHealsGolemsRange": 32,
+    "clericThrowsPotionsAtPlayers": true,
+    "clericThrowsPotionsAtVillagers": true,
+    "clericThrowsPotionsAtRange": 32,
+    "findCropRangeHorizontal": 10,
+    "findCropRangeVertical": 3,
+    "preferPlantSameCrop": true,
+    "farmersHarvestMelons": true,
+    "farmersHarvestPumpkins": true
+  },
+  "golemsConfig": {
+    "golemsAvoidCactus": true,
+    "golemsAvoidWater": true,
+    "golemsAvoidRail": true,
+    "golemsAvoidTrapdoor": true,
+    "golemsAvoidPowderedSnow": true,
+    "golemsDontAttackPlayer": true,
+    "golemsDontTrampleCrops": true,
+    "villagersDontSummonGolems": false,
+    "golemSpawnLimit": false,
+    "golemSpawnLimitCount": 10,
+    "golemSpawnLimitRange": 128
+  },
+  "catsConfig": {
+    "catsSpawnLimit": false,
+    "catsSpawnLimitCount": 10,
+    "catsSpawnLimitRange": 128,
+    "villageCatsDontDespawn": false,
+    "blackCatsAtAnyTime": false,
+    "allBlackCats": false
+  },
+  "debugConfig": {
+    "villagerStatRange": 256,
+    "enableVillagerInfoOverlay": false,
+    "villagerInfoShowsPath": false,
+    "enableVillagerBrainDebug": false
+  }
+}
